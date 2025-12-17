@@ -4,7 +4,7 @@ class Calculator{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
-        // initialising the Variable and calculating the volume of Earth
+        // initialising the Variable and build calculator
         float number1 = sc.nextFloat();
         float number2 = sc.nextFloat();
         float addition = number1 + number2;
