@@ -4,7 +4,7 @@ class AreaOfTriangle{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
-        // initialising the Variable and calculating the volume of Earth
+        // initialising the Variable and calculating the Area of Triangle
         int base = sc.nextInt();
         int height = sc.nextInt();
         double area = 1/2 * base * height;
