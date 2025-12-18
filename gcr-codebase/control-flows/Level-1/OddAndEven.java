@@ -11,7 +11,7 @@ class OddAndEven{
                 System.out.println("Odd : "+i);
             }
         }
-        return "";
+        return " ";
     }
 
     // Main method with a scanner object
