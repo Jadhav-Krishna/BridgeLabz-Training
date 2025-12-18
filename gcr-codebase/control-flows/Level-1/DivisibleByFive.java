@@ -1,16 +1,18 @@
 // Created a class , and main method with a scanner object
 import java.util.*;
-class SumOfNumberUntilZero{
+class DivisivleByFive{
 
 	// Writing the logic to find the number is divisible by 5 or not.
-	public static int UntilZero(int number){
-		int sum = 0;
-		while(number != 0){
-			sum += number;
-			number = sc.nextInt();
-		}
-		return sum;
-	}
+    public static boolean CheckDivisible(int number) {
+        for (int i = 1; i < number; i++) {
+            if (number % 5 == 0) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+        return false;
+    }
 
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
@@ -20,7 +22,7 @@ class SumOfNumberUntilZero{
 		
 		
 		// Function initialisation
-		// System.out.print(UntilZero(number));
+		 System.out.print(CheckDivisible(number));
 		
 		// Close the Scanner class
 		sc.close();
