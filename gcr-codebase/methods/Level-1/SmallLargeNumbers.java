@@ -3,9 +3,13 @@ import java.util.*;
 class SmallLargeNumbers{
 
 	// Writing the logic to find the first number is smallest.
-	public static void smallLargeNumbers(int a,int b,int c){
-		System.out.println(Math.max(Math.max(a,b),c)+" is Maximum");
-		System.out.print(Math.min(Math.min(a,b),c)+" is Minimum");
+	public static int[] smallLargeNumbers(int a,int b,int c){
+		int[] arr = new int[2];
+		int i = 0;
+		arr[i] = (Math.max(Math.max(a,b),c));
+		i++;
+		arr[i] = (Math.min(Math.min(a,b),c));
+		return arr;
 	}
 
 	// Main method with a scanner object
@@ -21,7 +25,7 @@ class SmallLargeNumbers{
 		int number3 = sc.nextInt();
 		
 		// Function initialisation
-		smallLargeNumbers(number1,number2,number3);
+		System.out.print(Arrays.toString(smallLargeNumbers(number1,number2,number3)));
 		
 		// Close the Scanner class
 		sc.close();
