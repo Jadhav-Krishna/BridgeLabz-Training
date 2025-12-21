@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class UnitConvertor {
+public class UnitConvertorDistance {
     // taking input from user and converting units
     // convert kilometers to miles, miles to kilometers, meters to feet and feet to meters
     static void main() {
