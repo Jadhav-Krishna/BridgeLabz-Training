@@ -1,8 +1,9 @@
 import java.util.*;
 // program to check various properties of a number
 class NumberChecker{
-    public static void main(String[] args) {
-        int number = 153;
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        int number = sc.nextInt();
         int count = countDigits(number);
         int[] digitsArray = storeDigits(number, count);
         boolean isDuck = isDuckNumber(digitsArray);
