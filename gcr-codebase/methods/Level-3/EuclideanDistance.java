@@ -8,8 +8,8 @@ public class EuclideanDistance {
 
     // calculate slope
     public static double[] lineEquation(double x1, double y1, double x2, double y2) {
-        double m = (y2 - y1) / (x2 - x1); // slope
-        double b = y1 - m * x1; // y-intercept
+        double m = (y2 - y1) / (x2 - x1);
+        double b = y1 - m * x1;
         return new double[]{m, b};
     }
 
