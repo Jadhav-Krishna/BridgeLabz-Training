@@ -21,10 +21,8 @@ public class EuclideanDistance {
         System.out.print("x2, y2: ");
         double x2 = sc.nextDouble();
         double y2 = sc.nextDouble();
-
         double distance = calculateDistance(x1, y1, x2, y2);
         System.out.println("Euclidean Distance: " + distance);
-
         double[] lineParams = lineEquation(x1, y1, x2, y2);
         System.out.println("Line Equation: y = " + lineParams[0] + "*x + " + lineParams[1]);
     }
