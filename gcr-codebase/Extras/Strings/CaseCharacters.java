@@ -1,6 +1,6 @@
 import java.util.*;
-// Convert uppercase letters to lowercase and vice versa.
 
+// Convert uppercase letters to lowercase and vice versa.
 public class CaseCharacters {
     public static String toggleCase(String input) {
         StringBuilder result = new StringBuilder();
@@ -20,8 +20,7 @@ public class CaseCharacters {
         Scanner scanner = new Scanner(System.in);
         System.out.print("string: ");
         String input = scanner.nextLine();
-        String toggledString = toggleCase(input);
-        System.out.println("toggled case: " + toggledString);
+        System.out.println("toggled case: " + toggleCase(input));
 
         scanner.close();
     }
