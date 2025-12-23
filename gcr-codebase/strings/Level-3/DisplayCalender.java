@@ -1,6 +1,6 @@
 import java.util.*;
 // program to display calendar for a given month and year
-public class CalendarDisplay {
+public class DisplayCalendar {
     // month name from month number
     static String getMonthName(int m) {
         String[] months = {
