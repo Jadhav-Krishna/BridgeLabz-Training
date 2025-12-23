@@ -1,6 +1,6 @@
 import java.util.*;
 // program to display calendar for a given month and year
-public class DisplayCalendar {
+public class DisplayCalender {
     // month name from month number
     static String getMonthName(int m) {
         String[] months = {
@@ -32,17 +32,25 @@ public class DisplayCalendar {
         int month = sc.nextInt();
         int year = sc.nextInt();
 
+        // basic validation for month
+        if (month < 1 || month > 12) {
+            System.out.println("Invalid month");
+            sc.close();
+            return;
+        }
+
         System.out.println(getMonthName(month) + " " + year);
         System.out.println("Sun Mon Tue Wed Thu Fri Sat");
 
         int firstDay = getFirstDay(1, month, year);
         int days = getDaysInMonth(month, year);
         for (int i = 0; i < firstDay; i++)
-            System.out.printf(",", "");
+            System.out.printf("%4s", "");
         for (int day = 1; day <= days; day++) {
-            System.out.printf(day);
+            System.out.printf("%4d", day);
             if ((day + firstDay) % 7 == 0)
                 System.out.println();
         }
+        sc.close();
     }
 }
