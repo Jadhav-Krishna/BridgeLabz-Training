@@ -2,8 +2,8 @@
 
 public class StringIndexOutOfBoundsExceptionDemo  {
     public static void main(String[] args) {
-        generateStringIndexOutOfBoundsException();
         handleStringIndexOutOfBoundsException();
+        generateStringIndexOutOfBoundsException();
     }
 
     // generate StringIndexOutOfBoundsException
