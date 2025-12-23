@@ -32,12 +32,11 @@ public class VowelsConsonants {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter a string: ");
+        System.out.print("string: ");
         String inputString = scanner.nextLine();
-
         int[] counts = findVowelsAndConsonants(inputString);
-        System.out.println("Number of Vowels: " + counts[0]);
-        System.out.println("Number of Consonants: " + counts[1]);
+        System.out.println("Vowels: " + counts[0]);
+        System.out.println("Consonants: " + counts[1]);
 
         scanner.close();
     }
