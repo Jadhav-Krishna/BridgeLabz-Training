@@ -2,7 +2,7 @@
 
 ## Day 1 – Git & GitHub Setup
 
-**(Date: 16-Dec-2025)**
+**(Date: 15-Dec-2025)**
 
 - Installed and configured Git.
 
@@ -33,7 +33,7 @@
 
 ## Day 2 – Java Programming Fundamentals
 
-**(Date: 17-Dec-2025)**
+**(Date: 16-Dec-2025)**
 
 - Learned basic Java programming concepts and syntax.
 - Practiced fundamental programs (arithmetic operations, calculations, conversions).
@@ -54,5 +54,110 @@
 ```
 
 - Completed and pushed all prerequisite programs to GitHub.
+
+---
+
+## Day 3 – Industrial Standards & Programming Elements
+
+**(Date: 17-Dec-2025)**
+
+- Learned industrial coding standards and best practices.
+- Practiced programming elements with various problem-solving exercises.
+
+```
+    gcr-codebase/
+    └── programming-elements/
+        ├── Level1/
+        |   ├── Calculator.java
+        |   ├── AreaOfTriangle.java
+        |   ├── AgeOfHarry.java
+        |   ├── SideOfSquare.java
+        |   ├── KilometersToMiles.java
+        |   ├── DistanceInKilometersToMiles.java
+        |   ├── DistanceInYardAndMiles.java
+        |   ├── CentimetersConvertsIntoFeetAndInches.java
+        |   ├── VolumeOfEarth.java
+        |   ├── UnitPriceOfQuantity.java
+        |   ├── EquallyDividedPen.java
+        |   ├── MaximumNumberOfHandshakes.java
+        |   ├── SamAveragePercent.java
+        |   ├── ProfitLoss.java
+        |   ├── UniversityFeeCalculation.java
+        |   └── UniversityFeeCalculationInput.java
+        └── Level2/
+            ├── Calculator.java
+            ├── AreaOfTriangle.java
+            ├── SideOfSquare.java
+            ├── IntOperation.java
+            ├── DoubleOperation.java
+            ├── UnitPriceOfQuantity.java
+            ├── QuotientAndReminder.java
+            └── DistanceInYardAndMiles.java
+```
+
+- Completed and pushed programming-elements to GitHub.
+
+---
+
+## Day 4 – Control Flows
+
+**(Date: 18-Dec-2025)**
+
+- Learned control flow concepts (if-else, loops, switch statements).
+- Practiced various control flow exercises across multiple levels.
+
+```
+    gcr-codebase/
+    └── control-flows/
+        ├── Level-1/
+        |   ├── PersonCanVote.java
+        |   ├── OddAndEven.java
+        |   ├── PositiveNegativeZero.java
+        |   ├── DivisibleByFive.java
+        |   ├── SmallestOfNumbers.java
+        |   ├── FirstSecondOrThirdLargestNumber.java
+        |   ├── SpringSeason.java
+        |   ├── MultiplicationTable.java
+        |   ├── Factorial.java
+        |   ├── FactorialFor.java
+        |   ├── SumOfNaturalNumber.java
+        |   ├── SumOfNaturalNumberWithFor.java
+        |   ├── SumOfNaturalNumberWithWhile.java
+        |   ├── SumOfNumberUntilZero.java
+        |   ├── SumOfNumberUntilZeroWithBreak.java
+        |   ├── RocketLaunch.java
+        |   ├── RocketLaunchForloop.java
+        |   └── EmployeesBonus.java
+        ├── Level-2/
+        |   ├── OddAndEven.java
+        |   ├── FizzBuzz.java
+        |   ├── FizzBuzzWhile.java
+        |   ├── MultiplicationTable.java
+        |   ├── Factor.java
+        |   ├── FactorWhile.java
+        |   ├── GreatestFactor.java
+        |   ├── GreatestFactorWhile.java
+        |   ├── MultiplesOfNumber.java
+        |   ├── MultiplesOfNumberWhile.java
+        |   ├── PowerOfNumber.java
+        |   ├── PowerOfNumberWhile.java
+        |   ├── YoungestFriend.java
+        |   └── EmployeesBonus.java
+        └── Level-3/
+            ├── IsPrime.java
+            ├── LeapYear.java
+            ├── LeapYearLogical.java
+            ├── DayOfWeek.java
+            ├── SwitchCaseCalculator.java
+            ├── BMICalculator.java
+            ├── PercentageCalculator.java
+            ├── DigitCounter.java
+            ├── ArmstrongNumber.java
+            ├── ArmstrongNumbers.java
+            ├── HarshadNumber.java
+            └── AbundantNumber.java
+```
+
+- Completed and pushed control-flows to GitHub.
 
 ---
