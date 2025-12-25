@@ -347,3 +347,26 @@
 - Completed and pushed extras to GitHub.
 
 ---
+
+## Day 3 – LeetCode & Scenario-Based Problems
+
+**(Date: 24-Dec-2025)**
+
+- Solved LeetCode array problems and real-world scenario-based challenges.
+- Applied programming concepts to practical use cases.
+
+```
+    leet-code-codebase/
+    └── Arrays/
+        ├── LongestCommonPrefix.java
+        ├── PlusOne.java
+        └── RemoveElement.java
+
+    scenario-based-codebase/
+    ├── BMICalculator.java
+    └── CoffeeCounterCalculator.java
+```
+
+- Completed and pushed LeetCode and scenario-based solutions to GitHub.
+
+---
