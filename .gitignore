@@ -1,0 +1,14 @@
+*.class 
+.metadata/
+bin/
+tmp/
+*.log
+*.tmp
+.DS_Store
+.vscode/
+.idea/
+node_modules/
+dist/
+build/
+.env
+coverage/
