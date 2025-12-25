@@ -29,6 +29,8 @@
 
 - Successfully pushed files to the remote repository.
 
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/core-java-practice)
+
 ---
 
 ## Day 2 – Java Programming Fundamentals
@@ -54,6 +56,8 @@
 ```
 
 - Completed and pushed all prerequisite programs to GitHub.
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/prerequisites)
 
 ---
 
@@ -96,6 +100,8 @@
 ```
 
 - Completed and pushed programming-elements to GitHub.
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
@@ -160,6 +166,8 @@
 
 - Completed and pushed control-flows to GitHub.
 
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+
 ---
 
 ## Day 5 – Arrays
@@ -196,6 +204,8 @@
 ```
 
 - Completed and pushed arrays to GitHub.
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -251,6 +261,8 @@
 
 - Completed and pushed methods to GitHub.
 
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+
 ---
 
 # Week 2: Advanced Java Programming
@@ -302,6 +314,8 @@
 
 - Completed and pushed strings to GitHub.
 
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+
 ---
 
 ## Day 2 – Extras (Built-In Methods & String Practice)
@@ -346,6 +360,8 @@
 
 - Completed and pushed extras to GitHub.
 
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+
 ---
 
 ## Day 3 – LeetCode & Scenario-Based Problems
@@ -368,5 +384,9 @@
 ```
 
 - Completed and pushed LeetCode and scenario-based solutions to GitHub.
+
+**GitHub Repository:** 
+- LeetCode: [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+- Scenario-Based: [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
