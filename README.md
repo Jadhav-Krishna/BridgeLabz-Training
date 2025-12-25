@@ -15,12 +15,13 @@
     |   |   └── arrays/
     |   |   └── methods/
     |   |   └── control-flow/
-    |   |   └── java-methods/
+    |   |   └── prerequisites/
     |   |   └── programming-elements/
-    |   |   └── string-handling/
+    |   |   └── Extras/
     |   |   └── strings/
     |   └── leet-code-codebase/
     |   └── scenario-based/
+    └── .gitignore
     └── README.md
 ```
 
