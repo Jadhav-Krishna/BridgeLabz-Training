@@ -1,6 +1,6 @@
 # Week 1: Git, GitHub & Java Programming Fundamentals
 
-## 📅 Day 1 – Git & GitHub Setup
+## Day 1 – Git & GitHub Setup
 
 **(Date: 16-Dec-2025)**
 
@@ -28,5 +28,31 @@
 - Learned basic Git commands ( `init`, `clone`, `add`, `commit`, `push`).
 
 - Successfully pushed files to the remote repository.
+
+---
+
+## Day 2 – Java Programming Fundamentals
+
+**(Date: 17-Dec-2025)**
+
+- Learned basic Java programming concepts and syntax.
+- Practiced fundamental programs (arithmetic operations, calculations, conversions).
+
+```
+    gcr-codebase/
+    └── prerequisites/
+        ├── WelcomeToBridgelabz.java
+        ├── AddTwoNumber.java
+        ├── AreaOfCircle.java
+        ├── AverageOfThreeNumbers.java
+        ├── PerimeterOfRectangle.java
+        ├── VolumeOfCylinder.java
+        ├── CelsiusToFahrenheitConversion.java
+        ├── KilometersToMiles.java
+        ├── PowerCalculation.java
+        └── CalculateSimpleInterest.java
+```
+
+- Completed and pushed all prerequisite programs to GitHub.
 
 ---
