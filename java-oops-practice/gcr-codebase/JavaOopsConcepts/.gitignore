@@ -1,11 +1,23 @@
 /.settings
 /bin
-
 .classpath
 .project
+/.metadata/
 
 .idea
-/.metadata/
 *.class
-
 *.iml
+.DS_Store
+Thumbs.db
+.vscode/
+target/
+out/
+build/
+logs/
+*.log
+*.tmp
+*.exe
+*.dylib
+*.jar
+*.zip
+*.tar.gz
