@@ -1,2 +1,2 @@
 # BridgeLabz-Training
-Capgemini BridgeLabz-Training
+BridgeLabz-Training
