@@ -12,3 +12,7 @@ dist/
 build/
 .env
 coverage/
+*.iml
+out//
+logs/
+*.exe
