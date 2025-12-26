@@ -390,3 +390,25 @@
 - Scenario-Based: [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+
+## Day 4 – Scenario-Based Problems
+
+**(Date: 26-Dec-2025)**
+
+- Continued working on real-world scenario-based challenges.
+- Applied programming concepts to practical business logic problems.
+
+```
+    scenario-based-codebase/
+    ├── BMICalculator.java
+    ├── CoffeeCounterCalculator.java
+    ├── ElectionManager.java
+    ├── MetroCardFareDeduction.java
+    └── ResultGenerator.java
+```
+
+- Completed and pushed additional scenario-based solutions to GitHub.
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
