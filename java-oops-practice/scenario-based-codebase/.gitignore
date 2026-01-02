@@ -1,0 +1,56 @@
+# Build outputs
+/target/
+/build/
+/out/
+/bin/
+/logs/
+*.class
+*.log
+
+# Maven / Gradle
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/maven-wrapper.js
+.gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.project
+.classpath
+.factorypath
+.settings/
+.apt_generated
+.springBeans
+.sts4-cache
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Language / tooling caches
+.kotlin
+
+# Crash dumps
+hs_err_pid*
+
+# Editor swaps and temp
+*~
+*.swp
+*.swo
+*.tmp
+*.orig
