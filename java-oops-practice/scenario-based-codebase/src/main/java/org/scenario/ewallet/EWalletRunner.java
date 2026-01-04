@@ -13,8 +13,8 @@ public class EWalletRunner {
 
         u1Wallet.transferTo(u2, 1500);
 
-        System.out.println("Alice balance: " + u1Wallet.getBalance());
-        System.out.println("Bob balance: " + u2Wallet.getBalance());
+        System.out.println(u1.getName()+" balance: " + u1Wallet.getBalance());
+        System.out.println(u2.getName()+" balance: " + u2Wallet.getBalance());
     }
 }
 

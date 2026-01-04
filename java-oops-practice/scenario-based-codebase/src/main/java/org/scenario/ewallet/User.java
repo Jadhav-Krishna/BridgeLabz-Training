@@ -15,8 +15,14 @@ public class User {
         this.wallet = new Wallet(initialBalance);
     }
 
-    public int getUserId() { return userId; }
-    public String getName() { return name; }
-    public Wallet getWallet() { return wallet; }
+    public int getUserId() { 
+    	return userId; 
+    }
+    public String getName() { 
+    	return name; 
+    }
+    public Wallet getWallet() { 
+    	return wallet; 
+    }
 }
 
