@@ -264,3 +264,81 @@ java-oops-practice/
 **GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance)
 
 ---
+
+### Day 10 – Encapsulation
+**(Date: 01-Jan-2026)**
+
+- Learned about Encapsulation and data hiding principles.
+- Implemented encapsulation concepts including:
+  - Access modifiers (private, public, protected)
+  - Getter and Setter methods
+  - Data validation and protection
+  - Interface implementation
+- Developed multiple domain-specific applications with proper encapsulation.
+
+**Project Structure:**
+```
+java-oops-practice/
+└── gcr-codebase/
+    └── JavaOopsConcepts/
+        └── src/
+            └── com/
+                └── bridgelabz/
+                    └── encapsulation/
+                        ├── bankingSystem/
+                        │   ├── BankAccount.java
+                        │   ├── CurrentAccount.java
+                        │   ├── Loanable.java
+                        │   ├── Main.java
+                        │   └── SavingsAccount.java
+                        ├── ecommercePlatform/
+                        │   ├── Clothing.java
+                        │   ├── Electronics.java
+                        │   ├── Groceries.java
+                        │   ├── Main.java
+                        │   ├── Product.java
+                        │   └── Taxable.java
+                        ├── employeemanagementsystem/
+                        │   ├── Department.java
+                        │   ├── Employee.java
+                        │   ├── FullTimeEmployee.java
+                        │   ├── Main.java
+                        │   └── PartTimeEmployee.java
+                        ├── foodDeliverySystem/
+                        │   ├── Discountable.java
+                        │   ├── FoodItem.java
+                        │   ├── Main.java
+                        │   ├── NonVegItem.java
+                        │   └── VegItem.java
+                        ├── hospitalPatientManagement/
+                        │   ├── InPatient.java
+                        │   ├── Main.java
+                        │   ├── MedicalRecord.java
+                        │   ├── OutPatient.java
+                        │   └── Patient.java
+                        ├── libraryManagementSystem/
+                        │   ├── Book.java
+                        │   ├── DVD.java
+                        │   ├── LibraryItem.java
+                        │   ├── Magazine.java
+                        │   ├── Main.java
+                        │   └── Reservable.java
+                        ├── rideApplication/
+                        │   ├── Auto.java
+                        │   ├── Bike.java
+                        │   ├── Car.java
+                        │   ├── GPS.java
+                        │   ├── Main.java
+                        │   └── Vehicle.java
+                        └── vehicleRentalSystem/
+                            ├── Bike.java
+                            ├── Car.java
+                            ├── Insurable.java
+                            ├── Main.java
+                            ├── Truck.java
+                            └── Vehicle.java
+```
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation)
+
+---
