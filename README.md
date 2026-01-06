@@ -156,7 +156,7 @@ scenario-based-codebase/BMICalculator.java
 -  **Naming Conventions**: Camel case and meaningful names
 -  **Version Control**: Regular commits with descriptive messages
 -  **Problem-Solving**: Breaking complex problems into smaller tasks
--  **Documentation**: Clear comments and README files
+-  **Documentation**: Clear comments and README files 
 
 ---
 
