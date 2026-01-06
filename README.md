@@ -110,3 +110,68 @@ java-oops-practice/
 **GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inbuiltfunction)
 
 ---
+
+### Day 8 – Object Modeling
+**(Date: 30-Dec-2025)**
+
+- Learned about Object Modeling and relationship mapping.
+- Implemented complex object relationships including:
+  - One-to-Many relationships
+  - Many-to-Many relationships
+  - Object composition
+  - Real-world system modeling
+- Developed multiple domain-based applications.
+
+**Project Structure:**
+```
+java-oops-practice/
+└── gcr-codebase/
+    └── JavaOopsConcepts/
+        └── src/
+            └── com/
+                └── bridgelabz/
+                    └── object-modeling/
+                        ├── bankaaccountholders/
+                        │   ├── Bank.java
+                        │   ├── BankAccountHolders.java
+                        │   └── Customer.java
+                        ├── companydepartments/
+                        │   ├── Company.java
+                        │   ├── CompanyDepartments.java
+                        │   ├── Department.java
+                        │   └── Employee.java
+                        ├── Ecommerce/
+                        │   ├── Customer.java
+                        │   ├── Ecommerce.java
+                        │   ├── Order.java
+                        │   └── Product.java
+                        ├── HospitalDoctorsPatients/
+                        │   ├── Doctor.java
+                        │   ├── Hospital.java
+                        │   ├── HospitalDoctorsPatients.java
+                        │   └── Patient.java
+                        ├── LibraryBooks/
+                        │   ├── Book.java
+                        │   ├── Library.java
+                        │   └── LibraryBooks.java
+                        ├── schoolandstudents/
+                        │   ├── Course.java
+                        │   ├── Main.java
+                        │   ├── School.java
+                        │   └── Student.java
+                        ├── universityFacultyDepartment/
+                        │   ├── Department.java
+                        │   ├── Faculty.java
+                        │   ├── Main.java
+                        │   └── University.java
+                        └── UniversityManagement/
+                            ├── Course.java
+                            ├── Professor.java
+                            ├── Student.java
+                            ├── University.java
+                            └── UniversityManagement.java
+```
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/object-modeling)
+
+---
