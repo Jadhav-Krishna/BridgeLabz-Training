@@ -78,3 +78,35 @@ java-oops-practice/
 **GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/constructor/levelone)
 
 ---
+
+### Day 7 – Inbuilt Functions
+**(Date: 29-Dec-2025)**
+
+- Learned about Java's inbuilt functions and methods.
+- Implemented practical applications using:
+  - String manipulation methods
+  - Object class methods
+  - Utility functions
+- Applied inbuilt functions to solve real-world problems.
+
+**Project Structure:**
+```
+java-oops-practice/
+└── gcr-codebase/
+    └── JavaOopsConcepts/
+        └── src/
+            └── com/
+                └── bridgelabz/
+                    └── inbuiltfunction/
+                        ├── BankAccount.java
+                        ├── Book.java
+                        ├── Company.java
+                        ├── Patient.java
+                        ├── Product.java
+                        ├── Student.java
+                        └── Vehical.java
+```
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inbuiltfunction)
+
+---
