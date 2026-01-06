@@ -175,3 +175,92 @@ java-oops-practice/
 **GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/object-modeling)
 
 ---
+
+### Day 9 – Inheritance
+**(Date: 31-Dec-2025)**
+
+- Learned about Inheritance and its types in Java.
+- Implemented various inheritance patterns including:
+  - Single Inheritance
+  - Multilevel Inheritance
+  - Hierarchical Inheritance
+  - Hybrid Inheritance
+- Developed real-world applications using inheritance concepts.
+
+**Project Structure:**
+```
+java-oops-practice/
+└── gcr-codebase/
+    └── JavaOopsConcepts/
+        └── src/
+            └── com/
+                └── bridgelabz/
+                    └── inheritance/
+                        ├── AssistedProblems/
+                        │   ├── AnimaHierarchy/
+                        │   │   ├── Animal.java
+                        │   │   ├── Bird.java
+                        │   │   ├── Cat.java
+                        │   │   ├── Dog.java
+                        │   │   └── Main.java
+                        │   ├── EmployeeManagementSystem/
+                        │   │   ├── Developer.java
+                        │   │   ├── Employee.java
+                        │   │   ├── Intern.java
+                        │   │   ├── Main.java
+                        │   │   └── Manager.java
+                        │   └── VehicleandTransportSystem/
+                        │       ├── Car.java
+                        │       ├── Main.java
+                        │       ├── MotorCycle.java
+                        │       ├── Truck.java
+                        │       └── Vehicle.java
+                        ├── HierarchicalInheritance/
+                        │   ├── BankAccountTypes/
+                        │   │   ├── BankAccount.java
+                        │   │   ├── CheckingAccount.java
+                        │   │   ├── FixedDepositAccount.java
+                        │   │   ├── Main.java
+                        │   │   └── SavingsAccount.java
+                        │   └── SchoolSystemwithDifferentRoles/
+                        │       ├── Main.java
+                        │       ├── Person.java
+                        │       ├── Staff.java
+                        │       ├── Student.java
+                        │       └── Teacher.java
+                        ├── HybridInheritance/
+                        │   ├── RestaurantManagementSystem/
+                        │   │   ├── Chef.java
+                        │   │   ├── Main.java
+                        │   │   ├── Person.java
+                        │   │   └── Waiter.java
+                        │   └── VehicleManagementSystem/
+                        │       ├── ElectricVehicle.java
+                        │       ├── Main.java
+                        │       ├── PetrolVehicle.java
+                        │       └── Vehicle.java
+                        ├── MultilevelInheritance/
+                        │   ├── EducationalCourseHierarchy/
+                        │   │   ├── Course.java
+                        │   │   ├── Main.java
+                        │   │   ├── OnlineCourse.java
+                        │   │   └── PaidOnlineCourse.java
+                        │   └── OnlineRetailOrderManagement/
+                        │       ├── DeliveredOrder.java
+                        │       ├── Main.java
+                        │       ├── Order.java
+                        │       └── ShippedOrder.java
+                        └── SingleInheritance/
+                            ├── LibraryManagementwithBooksandAuthors/
+                            │   ├── Author.java
+                            │   ├── Book.java
+                            │   └── Main.java
+                            └── SmartHomeDevices/
+                                ├── Device.java
+                                ├── Main.java
+                                └── Thermostat.java
+```
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/inheritance)
+
+---
