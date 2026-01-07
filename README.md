@@ -342,3 +342,31 @@ java-oops-practice/
 **GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/encapsulation)
 
 ---
+
+## Week 3: Scenario-Based OOPs Implementation
+**(Date: 02-Jan-2026 to 06-Jan-2026)**
+
+Applied comprehensive OOPs concepts through real-world scenario-based applications, implementing industry-standard design patterns and system architectures.
+
+### Projects Implemented
+
+| Day | Date | Application Domain | Projects |
+|-----|------|-------------------|----------|
+| 11 | 02-Jan-2026 | Financial & E-Commerce | MyBank, E-Wallet, SwiftCart |
+| 12 | 03-Jan-2026 | Healthcare & Transportation | Hospital Management, CabbyGo, Vehicle Rental |
+| 13 | 04-Jan-2026 | Education & Fitness | University Enrollment, CampusConnect, EduMentor, FitTrack |
+| 14 | 05-Jan-2026 | Events & Pet Care | EventEase, PetPal |
+| 15 | 06-Jan-2026 | IoT & Smart Systems | Smart Home Automation |
+
+**Core Concepts Applied:**
+- Inheritance hierarchies and polymorphism
+- Interface-based design and abstraction
+- Encapsulation and data protection
+- Transaction and billing systems
+- Real-time tracking and monitoring
+
+**Project Location:** `java-oops-practice/scenario-based-codebase/`
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+---
