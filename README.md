@@ -86,3 +86,44 @@ dsa-practice/
 **GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/main/java/org/bridgelabz/stacksQueues)
 
 ---
+
+## Day 13 – Sorting Algorithms
+
+**(Date: 5-Jan-2026)**
+
+- Implemented fundamental sorting algorithms
+- Comparison-based and non-comparison-based sorting
+- Time and space complexity analysis
+
+### Algorithms Implemented:
+
+- Bubble Sort (Student Marks)
+- Selection Sort (Exam Scores)
+- Insertion Sort (Employee IDs)
+- Merge Sort (Book Prices)
+- Quick Sort (Product Prices)
+- Heap Sort (Salary)
+- Counting Sort (Student Ages)
+
+### Project Structure:
+```
+dsa-practice/
+└── gcr-codebase/
+    └── src/
+        └── main/
+            └── java/
+                └── org/
+                    └── bridgelabz/
+                        └── sortingAlgorithms/
+                            ├── BubbleSortStudentMarks.java
+                            ├── SelectionSortExamScores.java
+                            ├── InsertionSortEmployeeIDs.java
+                            ├── MergeSortBookPrices.java
+                            ├── QuickSortProductPrices.java
+                            ├── HeapSortSalary.java
+                            └── CountingSortStudentAges.java
+```
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/main/java/org/bridgelabz/sortingAlgorithms)
+
+---
