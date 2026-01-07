@@ -393,21 +393,37 @@
 
 ## Day 4 – Scenario-Based Problems
 
-**(Date: 26-Dec-2025)**
+**(Date: 26-Dec-2025 to 1-Jan-2026)**
 
-- Continued working on real-world scenario-based challenges.
-- Applied programming concepts to practical business logic problems.
+- Worked on comprehensive real-world scenario-based challenges.
+- Applied programming concepts to practical business logic and real-life problems.
+- Implemented various practical applications including calculators, booking systems, trackers, and management systems.
 
 ```
     scenario-based-codebase/
     ├── BMICalculator.java
+    ├── BusRouteDistanceTracker.java
     ├── CoffeeCounterCalculator.java
+    ├── CurrencyExchangeKiosk.java
+    ├── DigitalWatch.java
     ├── ElectionManager.java
+    ├── FestivalLuckyDraw.java
+    ├── FitnessTracker.java
+    ├── LibraryReminder.java
     ├── MetroCardFareDeduction.java
-    └── ResultGenerator.java
+    ├── MovieTicketBooking.java
+    ├── NumberGuessingGame.java
+    ├── ParkingLotSystem.java
+    ├── PhoneRecharge.java
+    ├── Quiz.java
+    ├── ResultGenerator.java
+    ├── SchoolBusAttendance.java
+    ├── ShopkeepersDiscount.java
+    ├── TemperatureLogger.java
+    └── TrainReservation.java
 ```
 
-- Completed and pushed additional scenario-based solutions to GitHub.
+- Completed and pushed all scenario-based solutions to GitHub.
 
 **GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
