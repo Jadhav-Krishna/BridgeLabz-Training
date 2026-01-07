@@ -144,9 +144,9 @@ BridgeLabz-Training/
 
 ## 🛠️ Technologies Used
 
-- **Language**: Java (JDK 8+)
+- **Language**: Java (JDK 17+)
 - **Version Control**: Git & GitHub
-- **IDE**: IntelliJ IDEA / Eclipse / VS Code
+- **IDE**: Eclipse
 - **Build Tool**: Maven (optional)
 
 ---
