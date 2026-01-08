@@ -1,6 +1,6 @@
 # Week 3: Data Structures & Algorithms - LinkedList
 
-## Day 11 – LinkedList Implementation
+## Day 16 – LinkedList Implementation
 
 **(Date: 2-Jan-2026)**
 
@@ -35,7 +35,7 @@ dsa-practice/
 
 ---
 
-## Day 12 – Stack, Queue & HashMap
+## Day 17 – Stack, Queue & HashMap
 
 **(Date: 3-Jan-2026)**
 
@@ -87,7 +87,7 @@ dsa-practice/
 
 ---
 
-## Day 13 – Sorting Algorithms
+## Day 18 – Sorting Algorithms
 
 **(Date: 5-Jan-2026)**
 
