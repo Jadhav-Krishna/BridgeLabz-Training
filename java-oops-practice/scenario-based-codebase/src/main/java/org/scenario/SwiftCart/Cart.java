@@ -1,3 +1,5 @@
+package org.scenario.SwiftCart;
+
 import java.util.*;
 
 class Cart implements ICheckout {

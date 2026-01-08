@@ -1,3 +1,5 @@
+package org.scenario.SwiftCart;
+
 import java.util.*;
 
 abstract class Product {

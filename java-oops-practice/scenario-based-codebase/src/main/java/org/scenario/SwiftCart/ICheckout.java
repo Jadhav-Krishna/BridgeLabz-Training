@@ -1,3 +1,5 @@
+package org.scenario.SwiftCart;
+
 import java.util.*;
 
 public interface ICheckout {
