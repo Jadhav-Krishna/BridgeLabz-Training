@@ -1,4 +1,5 @@
-package org.scenario.BookBazaar;
+package src.main.java.org.scenario.BookBazaar;
+import java.util.*;
 
 public class Book implements IDiscountable {
 	private String title;
