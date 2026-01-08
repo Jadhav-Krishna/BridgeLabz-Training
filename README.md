@@ -93,22 +93,22 @@ BridgeLabz-Training/
 | 7 | 22-Dec | Strings | 30 programs (3 levels) |
 | 8 | 23-Dec | Built-In Methods | Recursion, date/time operations |
 | 9 | 24-Dec | LeetCode & Scenarios | 3 LeetCode + 2 real-world problems |
-| 10 | 26-Dec to 1-Jan | Scenario-Based | 20 business logic applications |
-| 5 | 26-Dec | OOPs Concepts | 10 programs (2 levels) |
-| 6 | 27-Dec | Constructors | 13 programs with constructor types |
+| 10-15 | 26-Dec to 1-Jan | Scenario-Based | 20 business logic applications |
+| 10 | 26-Dec | OOPs Concepts | 10 programs (2 levels) |
+| 11 | 27-Dec | Constructors | 13 programs with constructor types |
 
 ### **Week 3: Advanced OOPs & DSA**
 
 | Day | Date | Topic | Programs Completed |
 |-----|------|-------|-------------------|
-| 7 | 29-Dec | Inbuilt Functions | 7 domain-based applications |
-| 8 | 30-Dec | Object Modeling | 8 complex system models |
-| 9 | 31-Dec | Inheritance | 10 inheritance patterns |
-| 10 | 1-Jan | Encapsulation | 8 domain-specific applications |
-| 11-15 | 2-7-Jan | OOPs Scenarios | 16 real-world applications |
-| 11 | 2-Jan | LinkedList | 9 LinkedList implementations |
-| 12 | 3-Jan | Stack, Queue & HashMap | 10 DSA problems |
-| 13 | 5-Jan | Sorting Algorithms | 7 sorting implementations |
+| 12 | 29-Dec | Inbuilt Functions | 7 domain-based applications |
+| 13 | 30-Dec | Object Modeling | 8 complex system models |
+| 14 | 31-Dec | Inheritance | 10 inheritance patterns |
+| 15 | 1-Jan | Encapsulation | 8 domain-specific applications |
+| 16-20 | 2-7-Jan | OOPs Scenarios | 16 real-world applications |
+| 16 | 2-Jan | LinkedList | 9 LinkedList implementations |
+| 17 | 3-Jan | Stack, Queue & HashMap | 10 DSA problems |
+| 18 | 5-Jan | Sorting Algorithms | 7 sorting implementations |
 
 ---
 
