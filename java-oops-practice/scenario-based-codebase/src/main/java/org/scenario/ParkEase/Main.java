@@ -8,13 +8,13 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter Slot ID:");
+        System.out.println("Slot ID:");
         String slotId = sc.nextLine();
 
-        System.out.println("Enter Location:");
+        System.out.println("Location:");
         String location = sc.nextLine();
 
-        System.out.println("Allowed Vehicle Type (Car/Bike/Truck):");
+        System.out.println("Vehicle Type (Car/Bike/Truck):");
         String allowedType = sc.nextLine();
 
         ParkingSlot slot =
@@ -44,9 +44,9 @@ public class Main {
         }
 
         if (slot.parkVehicle(vehicle)) {
-            System.out.println("Vehicle parked successfully");
+            System.out.println("parked successfully");
 
-            System.out.println("Enter Parking Duration (hours):");
+            System.out.println("Parking Duration (hours):");
             int hours = sc.nextInt();
 
             double charges = vehicle.calculateCharges(hours);
@@ -54,7 +54,7 @@ public class Main {
 
             slot.releaseSlot(vehicle);
         } else {
-            System.out.println("Parking not allowed or slot occupied");
+            System.out.println("not allowed or slot occupied");
         }
 
         System.out.println("\nParking Logs:");

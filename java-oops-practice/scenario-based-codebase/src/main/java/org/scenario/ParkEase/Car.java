@@ -10,7 +10,7 @@ public class Car extends Vehicle {
     public double calculateCharges(int hours) {
         double charge = baseRate * hours;
         if (hours > 5) {
-            charge += 100; // overtime penalty
+            charge += 100;
         }
         return charge;
     }

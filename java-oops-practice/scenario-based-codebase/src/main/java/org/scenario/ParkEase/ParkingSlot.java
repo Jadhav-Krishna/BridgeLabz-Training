@@ -39,7 +39,7 @@ public class ParkingSlot {
         return !isOccupied;
     }
 
-    // 🔒 logs exposed safely
+    // logs exposed safely
     public void showLogs() {
         for (String log : bookingLogs) {
             System.out.println(log);
