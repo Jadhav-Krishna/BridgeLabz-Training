@@ -4,7 +4,7 @@
 
 ##  Training Overview
 
-This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to **January 7, 2026**. The training is organized into structured branches covering Core Java fundamentals, Object-Oriented Programming, and Data Structures & Algorithms.
+This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to **January 8, 2026**. The training is organized into structured branches covering Core Java fundamentals, Object-Oriented Programming, and Data Structures & Algorithms.
 
 ---
 
@@ -105,7 +105,7 @@ BridgeLabz-Training/
 | 8 | 30-Dec | Object Modeling | 8 complex system models |
 | 9 | 31-Dec | Inheritance | 10 inheritance patterns |
 | 10 | 1-Jan | Encapsulation | 8 domain-specific applications |
-| 11-15 | 2-6-Jan | OOPs Scenarios | 15 real-world applications |
+| 11-15 | 2-7-Jan | OOPs Scenarios | 16 real-world applications |
 | 11 | 2-Jan | LinkedList | 9 LinkedList implementations |
 | 12 | 3-Jan | Stack, Queue & HashMap | 10 DSA problems |
 | 13 | 5-Jan | Sorting Algorithms | 7 sorting implementations |
