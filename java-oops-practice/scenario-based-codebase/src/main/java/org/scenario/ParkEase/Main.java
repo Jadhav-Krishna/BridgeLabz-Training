@@ -1,4 +1,4 @@
-package parkease;
+package org.scenario.ParkEase;
 
 import java.util.Scanner;
 

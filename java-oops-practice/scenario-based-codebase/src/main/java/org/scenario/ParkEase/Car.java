@@ -1,4 +1,4 @@
-package parkease;
+package org.scenario.ParkEase;
 
 public class Car extends Vehicle {
 

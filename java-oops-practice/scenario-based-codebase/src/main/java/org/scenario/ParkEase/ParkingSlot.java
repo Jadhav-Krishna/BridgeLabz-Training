@@ -1,4 +1,4 @@
-package parkease;
+package org.scenario.ParkEase;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -39,7 +39,6 @@ public class ParkingSlot {
         return !isOccupied;
     }
 
-    // logs exposed safely
     public void showLogs() {
         for (String log : bookingLogs) {
             System.out.println(log);
