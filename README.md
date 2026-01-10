@@ -127,3 +127,81 @@ dsa-practice/
 **GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/main/java/org/bridgelabz/sortingAlgorithms)
 
 ---
+
+## Day 19 – Linear & Binary Search
+
+**(Date: 6-Jan-2026)**
+
+- Implemented linear and binary search algorithms
+- String manipulation with StringBuilder and StringBuffer
+- File I/O operations using FileReader and InputStreamReader
+- Performance comparison and optimization
+
+### Project Structure:
+```
+dsa-practice/
+└── gcr-codebase/
+    └── src/
+        └── main/
+            └── java/
+                └── org/
+                    └── bridgelabz/
+                        └── linearAndBinarysearch/
+                            ├── binarysearch/
+                            │   ├── FirstLastOccurrence.java
+                            │   ├── PeakElement.java
+                            │   ├── RotationPoint.java
+                            │   └── Search2DMatrix.java
+                            ├── linearsearch/
+                            │   ├── FirstNegative.java
+                            │   └── SentenceSearch.java
+                            ├── stringbuilder/
+                            │   ├── RemoveDuplicates.java
+                            │   └── ReverseString.java
+                            ├── stringbuffer/
+                            │   ├── ComparePerformance.java
+                            │   └── ConcatenateString.java
+                            ├── filereader/
+                            │   ├── ReadFileLineByLine.java
+                            │   └── WordCount.java
+                            ├── inputstreamreader/
+                            │   ├── ConsoleToFile.java
+                            │   └── InputStreamReaderDemo.java
+                            └── challengeproblem/
+                                ├── CompareStringAndIO.java
+                                └── SearchChallenge.java
+```
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/main/java/org/bridgelabz/linearAndBinarysearch)
+
+---
+
+## Day 20 – Runtime Analysis & Performance Comparison
+
+**(Date: 7-Jan-2026)**
+
+- Analyzed time and space complexity of various algorithms
+- Performance benchmarking and optimization techniques
+- Comparative analysis of data structures and algorithms
+
+### Project Structure:
+```
+dsa-practice/
+└── gcr-codebase/
+    └── src/
+        └── main/
+            └── java/
+                └── org/
+                    └── bridgelabz/
+                        └── runTimeAnalysis/
+                            ├── DataStructureComparison.java
+                            ├── FibonacciPerformance.java
+                            ├── FileReadingEfficiency.java
+                            ├── SearchingPerformance.java
+                            ├── SortingPerformance.java
+                            └── StringConcatenationPerformance.java
+```
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/main/java/org/bridgelabz/runTimeAnalysis)
+
+---
