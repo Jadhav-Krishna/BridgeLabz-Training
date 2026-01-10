@@ -1,5 +1,6 @@
 # Build outputs
 /target/
+*.class
 !/target/.gitkeep
 !/target/.placeholder
 !**/src/main/**/target/
