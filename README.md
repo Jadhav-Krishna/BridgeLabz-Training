@@ -7,7 +7,7 @@
 This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to **January 8, 2026**. The training is organized into structured branches covering Core Java fundamentals, Object-Oriented Programming, and Data Structures & Algorithms.
 
 ---
- 
+
 ##  Repository Branches
 
 ### 🔹 [core-java-practice](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/core-java-practice)
