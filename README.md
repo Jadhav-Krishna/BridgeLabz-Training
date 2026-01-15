@@ -4,7 +4,7 @@
 
 ##  Training Overview
 
-This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to **January 8, 2026**. The training is organized into structured branches covering Core Java fundamentals, Object-Oriented Programming, and Data Structures & Algorithms.
+This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to **January 13, 2026**. The training is organized into structured branches covering Core Java fundamentals, Object-Oriented Programming, and Data Structures & Algorithms.
 
 ---
 
@@ -29,6 +29,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - LinkedList Implementation
 - Stack, Queue & HashMap
 - Sorting Algorithms
+- Linear & Binary Search
+- Runtime Analysis & Performance
+- Scenario-Based DSA Problems
 
 ---
 
@@ -64,11 +67,14 @@ BridgeLabz-Training/
 │   └── 📁 scenario-based-codebase/    # OOPs Applications (Day 11-15)
 │
 └── 📁 dsa-practice/
-    └── 📁 gcr-codebase/
-        └── 📁 src/main/java/org/bridgelabz/
-            ├── 📁 linkedList/          # LinkedList Implementation (Day 11)
-            ├── 📁 stacksQueues/        # Stack, Queue & HashMap (Day 12)
-            └── 📁 sortingAlgorithms/   # Sorting Algorithms (Day 13)
+    ├── 📁 gcr-codebase/
+    │   └── 📁 src/main/java/org/bridgelabz/
+    │       ├── 📁 linkedList/              # LinkedList Implementation (Day 16)
+    │       ├── 📁 stacksQueues/            # Stack, Queue & HashMap (Day 17)
+    │       ├── 📁 sortingAlgorithms/       # Sorting Algorithms (Day 18)
+    │       ├── 📁 linearAndBinarysearch/   # Search Algorithms (Day 19)
+    │       └── 📁 runTimeAnalysis/         # Performance Analysis (Day 20)
+    └── 📁 scenario-based-codebase/         # DSA Scenarios (Day 21-23)
 ```
 
 ---
@@ -105,10 +111,16 @@ BridgeLabz-Training/
 | 13 | 30-Dec | Object Modeling | 8 complex system models |
 | 14 | 31-Dec | Inheritance | 10 inheritance patterns |
 | 15 | 1-Jan | Encapsulation | 8 domain-specific applications |
-| 16-20 | 2-7-Jan | OOPs Scenarios | 16 real-world applications |
-| 16 | 2-Jan | LinkedList | 9 LinkedList implementations |
-| 17 | 3-Jan | Stack, Queue & HashMap | 10 DSA problems |
-| 18 | 5-Jan | Sorting Algorithms | 7 sorting implementations |
+| 16 | 2-Jan | DSA - LinkedList | 9 LinkedList implementations |
+| 17 | 3-Jan | DSA - Stack, Queue & HashMap | 10 DSA problems |
+| 18 | 5-Jan | DSA - Sorting Algorithms | 7 sorting implementations |
+| 19 | 6-Jan | DSA - Linear & Binary Search | Search algorithms & I/O operations |
+| 20 | 7-Jan | DSA - Runtime Analysis | Performance benchmarking |
+| 21 | 10-Jan | OOPs Scenarios | MediStore, TourMate |
+| 22 | 8-Jan | DSA Scenarios | BookShelf, BrowserBuddy, AmbulanceRoute |
+| 23 | 9-Jan | OOPs Scenarios | Artify, FoodLoop |
+| 24 | 12-Jan | DSA Scenarios | CallCenter, TrainCompanion, TextEditor, TrafficManager |
+| 25 | 13-Jan | DSA Scenarios | SmartCheckout, ParcelTracker, ExamProctor |
 
 ---
 
@@ -134,10 +146,14 @@ BridgeLabz-Training/
 -  **Real-World Applications**: 15+ domain-based systems
 
 ### Data Structures & Algorithms (dsa-practice)
--  **LinkedList**: Singly linked list, node manipulation
+-  **LinkedList**: Singly, Doubly, Circular linked lists
 -  **Stack & Queue**: LIFO, FIFO operations
 -  **HashMap**: Custom implementation, collision handling
 -  **Sorting Algorithms**: Bubble, Selection, Insertion, Merge, Quick, Heap, Counting
+-  **Searching**: Linear search, Binary search, 2D matrix search
+-  **String & I/O**: StringBuilder, StringBuffer, FileReader, InputStreamReader
+-  **Runtime Analysis**: Performance benchmarking and optimization
+-  **Scenario-Based**: 10 real-world DSA applications
 -  **Time Complexity**: Analysis and optimization
 
 ---
@@ -153,13 +169,15 @@ BridgeLabz-Training/
 
 ##  Training Statistics
 
-- **Total Days**: 24 days (15-Dec-2025 to 7-Jan-2026)
-- **Total Programs**: 250+ Java programs
+- **Total Days**: 30 days (15-Dec-2025 to 13-Jan-2026)
+- **Total Programs**: 280+ Java programs
 - **Levels Covered**: Beginner → Intermediate → Advanced
 - **Practice Platforms**: LeetCode, Scenario-based challenges, Real-world applications
 - **Branches**: 3 (Core Java, OOPs, DSA)
-- **Project Categories**: 30+ domain applications
-- **Coding Hours**: 150+ hours
+- **Project Categories**: 40+ domain applications
+- **DSA Implementations**: 25+ data structure problems
+- **Scenario Projects**: 15+ real-world applications
+- **Coding Hours**: 180+ hours
 
 ---
 
@@ -184,6 +202,9 @@ BridgeLabz-Training/
 - 📌 [LinkedList Implementation](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/src/main/java/org/bridgelabz/linkedList)
 - 📌 [Stack & Queue Problems](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/src/main/java/org/bridgelabz/stacksQueues)
 - 📌 [Sorting Algorithms](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/src/main/java/org/bridgelabz/sortingAlgorithms)
+- 📌 [Linear & Binary Search](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/src/main/java/org/bridgelabz/linearAndBinarysearch)
+- 📌 [Runtime Analysis](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/src/main/java/org/bridgelabz/runTimeAnalysis)
+- 📌 [DSA Scenario-Based](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase)
 
 ---
 
