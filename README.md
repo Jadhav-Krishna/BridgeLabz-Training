@@ -74,7 +74,7 @@ BridgeLabz-Training/
     │       ├── 📁 sortingAlgorithms/       # Sorting Algorithms (Day 18)
     │       ├── 📁 linearAndBinarysearch/   # Search Algorithms (Day 19)
     │       └── 📁 runTimeAnalysis/         # Performance Analysis (Day 20)
-    └── 📁 scenario-based-codebase/         # DSA Scenarios (Day 21-23)
+    └── 📁 scenario-based-codebase/         # DSA Scenarios (Day 21-25)
 ```
 
 ---
