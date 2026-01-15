@@ -12,7 +12,6 @@ public class SalesSort {
         };
 
         mergeSort(sales, 0, sales.length - 1);
-
         for (Sale s : sales) {
             System.out.println(s.date + " -> " + s.amount);
         }
@@ -45,7 +44,7 @@ public class SalesSort {
         int i = 0, j = 0, k = left;
 
         while (i < n1 && j < n2) {
-            if (L[i].amount <= R[j].amount) { // stable
+            if (L[i].amount <= R[j].amount) {
                 arr[k++] = L[i++];
             } else {
                 arr[k++] = R[j++];
