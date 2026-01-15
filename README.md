@@ -344,7 +344,7 @@ java-oops-practice/
 ---
 
 ## Week 3: Scenario-Based OOPs Implementation
-**(Date: 02-Jan-2026 to 06-Jan-2026)**
+**(Date: 02-Jan-2026 to 09-Jan-2026)**
 
 Applied comprehensive OOPs concepts through real-world scenario-based applications, implementing industry-standard design patterns and system architectures.
 
@@ -357,6 +357,8 @@ Applied comprehensive OOPs concepts through real-world scenario-based applicatio
 | 13 | 04-Jan-2026 | Education & Fitness | University Enrollment, CampusConnect, EduMentor, FitTrack |
 | 14 | 05-Jan-2026 | Events & Pet Care | EventEase, PetPal |
 | 15 | 06-Jan-2026 | IoT & Smart Systems | Smart Home Automation |
+| 16 | 08-Jan-2026 | Healthcare & Travel | MediStore, TourMate |
+| 17 | 09-Jan-2026 | Art & Food Delivery | Artify, FoodLoop |
 
 **Core Concepts Applied:**
 - Inheritance hierarchies and polymorphism
