@@ -3,7 +3,7 @@
 > A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
 
 ##  Training Overview
-
+ 
 This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to **January 13, 2026**. The training is organized into structured branches covering Core Java fundamentals, Object-Oriented Programming, and Data Structures & Algorithms.
 
 ---
