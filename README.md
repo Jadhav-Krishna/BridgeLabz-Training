@@ -205,3 +205,38 @@ dsa-practice/
 **GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/main/java/org/bridgelabz/runTimeAnalysis)
 
 ---
+
+## Day 21-23 – Scenario-Based DSA Problems
+
+**(Dates: 10-Jan, 12-Jan, 13-Jan-2026)**
+
+Real-world applications using LinkedList (Singly, Doubly, Circular), Stack, Queue, HashMap, and PriorityQueue.
+
+### Day 21 (10-Jan): BookShelf, BrowserBuddy, AmbulanceRoute
+### Day 22 (12-Jan): CallCenter, TrainCompanion, TextEditor, TrafficManager
+### Day 23 (13-Jan): SmartCheckout, ParcelTracker, ExamProctor
+
+### Project Structure:
+```
+dsa-practice/
+└── scenario-based-codebase/
+    └── src/
+        └── main/
+            └── java/
+                └── org/
+                    └── scenario/
+                        ├── BookShelf/          # HashMap + HashSet library catalog
+                        ├── BrowserBuddy/       # Doubly LinkedList + Stack navigation
+                        ├── AmbulanceRoute/     # Circular LinkedList routing
+                        ├── CallCenter/         # PriorityQueue + HashMap
+                        ├── TrainCompanion/     # Doubly LinkedList navigation
+                        ├── TextEditor/         # Stack-based undo/redo
+                        ├── TrafficManager/     # Circular LinkedList + Queue
+                        ├── SmartCheckout/      # Queue + HashMap checkout
+                        ├── ParcelTracker/      # Singly LinkedList tracking
+                        └── ExamProctor/        # Stack + HashMap exam system
+```
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src/main/java/org/scenario)
+
+---
