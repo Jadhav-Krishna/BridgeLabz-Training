@@ -206,15 +206,18 @@ dsa-practice/
 
 ---
 
-## Day 21-23 – Scenario-Based DSA Problems
+## Day 21-26 – Scenario-Based DSA Problems
 
-**(Dates: 10-Jan, 12-Jan, 13-Jan-2026)**
+**(Dates: 10-Jan, 12-Jan, 13-Jan, 15-Jan, 16-Jan, 17-Jan-2026)**
 
-Real-world applications using LinkedList (Singly, Doubly, Circular), Stack, Queue, HashMap, and PriorityQueue.
+Real-world applications using LinkedList (Singly, Doubly, Circular), Stack, Queue, HashMap, PriorityQueue, and Sorting algorithms.
 
 ### Day 21 (10-Jan): BookShelf, BrowserBuddy, AmbulanceRoute
 ### Day 22 (12-Jan): CallCenter, TrainCompanion, TextEditor, TrafficManager
 ### Day 23 (13-Jan): SmartCheckout, ParcelTracker, ExamProctor
+### Day 24 (15-Jan): HospitalQueue, SmartShelf, ZipZipMart, EventManager, ExamCell
+### Day 25 (16-Jan): RoboWarehouse, CinemaHouse, CropMonitor
+### Day 26 (17-Jan): ArtExpo, FleetManager, IceCreamRush, SmartLibrary
 
 ### Project Structure:
 ```
@@ -234,7 +237,19 @@ dsa-practice/
                         ├── TrafficManager/     # Circular LinkedList + Queue
                         ├── SmartCheckout/      # Queue + HashMap checkout
                         ├── ParcelTracker/      # Singly LinkedList tracking
-                        └── ExamProctor/        # Stack + HashMap exam system
+                        ├── ExamProctor/        # Stack + HashMap exam system
+                        ├── HospitalQueue/      # PriorityQueue patient management
+                        ├── SmartShelf/         # Sorting + Binary Search inventory
+                        ├── ZipZipMart/         # Sorting sales data
+                        ├── EventManager/       # HashMap + Sorting events
+                        ├── ExamCell/           # Sorting student records
+                        ├── RoboWarehouse/      # Queue-based warehouse automation
+                        ├── CinemaHouse/        # Queue + HashMap seat booking
+                        ├── CropMonitor/        # Circular LinkedList crop rotation
+                        ├── ArtExpo/            # LinkedList + HashMap artist management
+                        ├── FleetManager/       # Queue + HashMap vehicle tracking
+                        ├── IceCreamRush/       # Queue order processing
+                        └── SmartLibrary/       # Stack + HashMap book management
 ```
 
 **GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/src/main/java/org/scenario)
