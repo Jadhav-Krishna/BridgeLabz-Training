@@ -346,28 +346,56 @@ java-oops-practice/
 ## Week 3: Scenario-Based OOPs Implementation
 **(Date: 02-Jan-2026 to 09-Jan-2026)**
 
-Applied comprehensive OOPs concepts through real-world scenario-based applications, implementing industry-standard design patterns and system architectures.
+Applied comprehensive OOPs concepts through 25 real-world scenario-based applications.
 
-### Projects Implemented
+**Core Concepts:** Inheritance, Polymorphism, Interfaces, Abstraction, Encapsulation
 
-| Day | Date | Application Domain | Projects |
-|-----|------|-------------------|----------|
-| 11 | 02-Jan-2026 | Financial & E-Commerce | MyBank, E-Wallet, SwiftCart |
-| 12 | 03-Jan-2026 | Healthcare & Transportation | Hospital Management, CabbyGo, Vehicle Rental |
-| 13 | 04-Jan-2026 | Education & Fitness | University Enrollment, CampusConnect, EduMentor, FitTrack |
-| 14 | 05-Jan-2026 | Events & Pet Care | EventEase, PetPal |
-| 15 | 06-Jan-2026 | IoT & Smart Systems | Smart Home Automation |
-| 16 | 08-Jan-2026 | Healthcare & Travel | MediStore, TourMate |
-| 17 | 09-Jan-2026 | Art & Food Delivery | Artify, FoodLoop |
+### Applications Summary
 
-**Core Concepts Applied:**
-- Inheritance hierarchies and polymorphism
-- Interface-based design and abstraction
-- Encapsulation and data protection
-- Transaction and billing systems
-- Real-time tracking and monitoring
+| # | Application | Domain | Key Features |
+|---|------------|--------|--------------|
+| 1 | Artify | Art Marketplace | Digital/Print artwork with purchase interface |
+| 2 | BirdSanctuary | Wildlife Management | Flyable/Swimmable birds with reflection |
+| 3 | BookBazaar | E-Commerce | Ebook/Printed books with discounts |
+| 4 | BudgetWise | Finance | Monthly/Annual budget analysis |
+| 5 | CabbyGo | Transportation | Ride-hailing with multiple vehicle types |
+| 6 | CampusConnect | Education | Student-Faculty course management |
+| 7 | DigiContact | Utilities | Digital address book system |
+| 8 | EduMentor | E-Learning | Online courses with certificates |
+| 9 | EventEase | Event Management | Birthday/Conference event scheduling |
+| 10 | E-Wallet | Finance | Personal/Business wallet transactions |
+| 11 | FitTrack | Health & Fitness | Cardio/Strength workout tracking |
+| 12 | FoodLoop | Food Delivery | Veg/Non-veg food ordering |
+| 13 | HomeNest | IoT | Smart home device control |
+| 14 | HospitalPatientManagement | Healthcare | InPatient/OutPatient billing |
+| 15 | LoanBuddy | Finance | Home/Education/Personal loans |
+| 16 | MediStore | Healthcare | Pharmacy with Tablet/Syrup/Injection |
+| 17 | MyBank | Banking | Savings/Current account management |
+| 18 | ParkEase | Transportation | Parking slot allocation & billing |
+| 19 | PayXpress | Utilities | Electricity/Water/Internet bill payments |
+| 20 | PetPal | Pet Care | Dog/Cat/Rabbit adoption system |
+| 21 | SmartHomeAutomation | IoT | Automated Light/Fan/Thermostat control |
+| 22 | SwiftCart | E-Commerce | Shopping cart with product categories |
+| 23 | TourMate | Travel | Local/International tour booking |
+| 24 | UniversityCourseEnrollment | Education | UnderGrad/PostGrad course enrollment |
+| 25 | VehicleRental | Transportation | Car/Bike/Truck rental system |
 
-**Project Location:** `java-oops-practice/scenario-based-codebase/`
+**Project Structure:**
+```
+java-oops-practice/scenario-based-codebase/src/main/java/org/scenario/
+├── Artify/                          ├── HomeNest/                        ├── PetPal/
+├── BirdSanctuary/                   ├── hospitalpatientmanagement/       ├── smartHomeAutomation/
+├── BookBazaar/                      ├── LoanBuddy/                       ├── SwiftCart/
+├── BudgetWise/                      ├── MediStore/                       ├── TourMate/
+├── CabbyGo/                         ├── MyBank/                          ├── universitycourseenrollment/
+├── CampusConnect/                   ├── ParkEase/                        └── vehiclerental/
+├── DigiContact/                     ├── PayXpress/
+├── EduMentor/                       
+├── EventEase/                       
+├── ewallet/                         
+├── FitTrack/                        
+└── FoodLoop/                        
+```
 
 **GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
