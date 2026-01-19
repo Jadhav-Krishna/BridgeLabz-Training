@@ -1,0 +1,11 @@
+package org.scenario.FlashDealz;
+
+class Product {
+    String name;
+    int discount;
+
+    Product(String name, int discount) {
+        this.name = name;
+        this.discount = discount;
+    }
+}
