@@ -243,38 +243,53 @@ java-collections-practice/
 java-collections-practice/
 └── gcr-codebase/
     └── src/
-        └── main/
+        ├── main/
+        │   └── java/
+        │       └── regexJUnit/
+        │           ├── regex/
+        │           │   ├── CapitalizedWords.java
+        │           │   ├── CensorBadWords.java
+        │           │   ├── EmailAddresses.java
+        │           │   ├── ExtractCurrencyValue.java
+        │           │   ├── ExtractDate.java
+        │           │   ├── ExtractLinks.java
+        │           │   ├── ExtractProgrammingLanguageNames.java
+        │           │   ├── HexColorCode.java
+        │           │   ├── LicencePlateNumber.java
+        │           │   ├── RepeatingWords.java
+        │           │   ├── ReplaceMspaceToSspace.java
+        │           │   ├── ValidateCreditCardNumber.java
+        │           │   ├── ValidateIPAddress.java
+        │           │   ├── ValidateSocialSecurityNo.java
+        │           │   └── ValidateUsername.java
+        │           └── JUnit/
+        │               ├── BankAccount.java
+        │               ├── Calculator.java
+        │               ├── DatabaseConnection.java
+        │               ├── FileProcessor.java
+        │               ├── ListManager.java
+        │               ├── MathUtils.java
+        │               ├── NumberUtils.java
+        │               ├── PasswordValidator.java
+        │               ├── PerformanceUtils.java
+        │               ├── StringUtils.java
+        │               ├── TemperatureConverter.java
+        │               └── UserRegistration.java
+        └── test/
             └── java/
                 └── regexJUnit/
-                    ├── regex/
-                    │   ├── CapitalizedWords.java
-                    │   ├── CensorBadWords.java
-                    │   ├── EmailAddresses.java
-                    │   ├── ExtractCurrencyValue.java
-                    │   ├── ExtractDate.java
-                    │   ├── ExtractLinks.java
-                    │   ├── ExtractProgrammingLanguageNames.java
-                    │   ├── HexColorCode.java
-                    │   ├── LicencePlateNumber.java
-                    │   ├── RepeatingWords.java
-                    │   ├── ReplaceMspaceToSspace.java
-                    │   ├── ValidateCreditCardNumber.java
-                    │   ├── ValidateIPAddress.java
-                    │   ├── ValidateSocialSecurityNo.java
-                    │   └── ValidateUsername.java
-                    └── JUnit/
-                        ├── BankAccount.java
-                        ├── Calculator.java
-                        ├── DatabaseConnection.java
-                        ├── FileProcessor.java
-                        ├── ListManager.java
-                        ├── MathUtils.java
-                        ├── NumberUtils.java
-                        ├── PasswordValidator.java
-                        ├── PerformanceUtils.java
-                        ├── StringUtils.java
-                        ├── TemperatureConverter.java
-                        └── UserRegistration.java
+                    ├── BankAccountTest.java
+                    ├── CalculatorTest.java
+                    ├── DatabaseConnectionTest.java
+                    ├── FileProcessorTest.java
+                    ├── ListManagerTest.java
+                    ├── MathUtilsTest.java
+                    ├── NumberUtilsTest.java
+                    ├── PasswordValidatorTest.java
+                    ├── PerformanceUtilsTest.java
+                    ├── StringUtilsTest.java
+                    ├── TemperatureConverterTest.java
+                    └── UserRegistrationTest.java
 ```
 
 **GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/src/main/java/regexJUnit)
