@@ -1,14 +1,7 @@
 package annotationsReflection.annotations;
 import java.lang.annotation.*;
 import java.lang.reflect.Field;
-/* Implement a Custom Serialization Annotation @JsonField
-✅ Problem Statement:
-Define an annotation @JsonField to mark fields for JSON serialization.
-🔹 Requirements:
-●	@JsonField(name = "user_name") should map field names to custom JSON keys.
-●	Apply it on a User class.
-●	Write a method to convert object to JSON string by reading the annotations.
- */
+
 public class JsonFieldA {
     @Retention(RetentionPolicy.RUNTIME)
     @Target(ElementType.FIELD)
@@ -23,7 +16,7 @@ public class JsonFieldA {
         @JsonField(name = "user_age")
         private int age;
 
-        private String password; // Not annotated, should not be serialized
+        private String password;
 
         public User(String username, int age, String password) {
             this.username = username;
