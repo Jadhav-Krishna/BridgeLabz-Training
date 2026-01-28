@@ -1,0 +1,71 @@
+package annotationsReflection.annotations;
+import java.lang.annotation.*;
+import java.lang.reflect.Field;
+/* Implement a Custom Serialization Annotation @JsonField
+✅ Problem Statement:
+Define an annotation @JsonField to mark fields for JSON serialization.
+🔹 Requirements:
+●	@JsonField(name = "user_name") should map field names to custom JSON keys.
+●	Apply it on a User class.
+●	Write a method to convert object to JSON string by reading the annotations.
+ */
+public class JsonFieldA {
+    @Retention(RetentionPolicy.RUNTIME)
+    @Target(ElementType.FIELD)
+    public @interface JsonField {
+        String name();
+    }
+
+    public static class User {
+        @JsonField(name = "user_name")
+        private String username;
+
+        @JsonField(name = "user_age")
+        private int age;
+
+        private String password; // Not annotated, should not be serialized
+
+        public User(String username, int age, String password) {
+            this.username = username;
+            this.age = age;
+            this.password = password;
+        }
+    }
+
+    public static String toJson(Object obj) {
+        StringBuilder jsonBuilder = new StringBuilder();
+        jsonBuilder.append("{");
+        Field[] fields = obj.getClass().getDeclaredFields();
+        boolean firstField = true;
+
+        for (Field field : fields) {
+            if (field.isAnnotationPresent(JsonField.class)) {
+                if (!firstField) {
+                    jsonBuilder.append(", ");
+                }
+                JsonField annotation = field.getAnnotation(JsonField.class);
+                field.setAccessible(true);
+                try {
+                    Object value = field.get(obj);
+                    jsonBuilder.append("\"").append(annotation.name()).append("\": ");
+                    if (value instanceof String) {
+                        jsonBuilder.append("\"").append(value).append("\"");
+                    } else {
+                        jsonBuilder.append(value);
+                    }
+                } catch (IllegalAccessException e) {
+                    e.printStackTrace();
+                }
+                firstField = false;
+            }
+        }
+        jsonBuilder.append("}");
+        return jsonBuilder.toString();
+    }
+
+    public static void main(String[] args) {
+        User user = new User("john_doe", 30, "secret");
+        String jsonString = toJson(user);
+        System.out.println(jsonString);
+    }
+}
