@@ -36,5 +36,5 @@ public class LogExecutionTimeA {
                 System.out.println("Execution time of " + method.getName() + ": " + (endTime - startTime) + " ns");
             }
         }
-
+    }
 }
