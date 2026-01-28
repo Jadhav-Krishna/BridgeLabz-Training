@@ -206,9 +206,9 @@ dsa-practice/
 
 ---
 
-## Day 21-26 – Scenario-Based DSA Problems
+## Day 21-29 – Scenario-Based DSA Problems
 
-**(Dates: 10-Jan, 12-Jan, 13-Jan, 15-Jan, 16-Jan, 17-Jan-2026)**
+**(Dates: 10-Jan, 12-Jan, 13-Jan, 15-Jan, 16-Jan, 17-Jan, 19-Jan, 20-Jan, 21-Jan-2026)**
 
 Real-world applications using LinkedList (Singly, Doubly, Circular), Stack, Queue, HashMap, PriorityQueue, and Sorting algorithms.
 
@@ -218,6 +218,9 @@ Real-world applications using LinkedList (Singly, Doubly, Circular), Stack, Queu
 ### Day 24 (15-Jan): HospitalQueue, SmartShelf, ZipZipMart, EventManager, ExamCell
 ### Day 25 (16-Jan): RoboWarehouse, CinemaHouse, CropMonitor
 ### Day 26 (17-Jan): ArtExpo, FleetManager, IceCreamRush, SmartLibrary
+### Day 27 (19-Jan): EduResults, FlashDealz, FitnessTracker, AddressBookSystem
+### Day 28 (20-Jan): MovieTime, FoodFest, GameZone, TailorShop, MedWarehouse
+### Day 29 (21-Jan): BST, E-commerce Product Inventory, MusicApp
 
 ### Project Structure:
 ```
