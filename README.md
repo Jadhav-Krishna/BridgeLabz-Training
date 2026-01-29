@@ -4,7 +4,7 @@
 
 ##  Training Overview
 
-This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to **January 13, 2026**. The training is organized into structured branches covering Core Java fundamentals, Object-Oriented Programming, and Data Structures & Algorithms.
+This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to **January 29, 2026**. The training is organized into structured branches covering Core Java fundamentals, Object-Oriented Programming, Data Structures & Algorithms, Java Collections Framework, and Java 8 Features.
 
 ---
 
@@ -25,13 +25,36 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - Real-World OOPs Applications
 
 ### 🔹 [dsa-practice](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice)
-**Week 3-4**: Data Structures & Algorithms
+**Week 3**: Data Structures & Algorithms
 - LinkedList Implementation
 - Stack, Queue & HashMap
 - Sorting Algorithms
 - Linear & Binary Search
 - Runtime Analysis & Performance
 - Scenario-Based DSA Problems
+
+### 🔹 [java-collections-practice](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice)
+**Week 4**: Java Collections & Advanced Concepts
+- Generics & Type Safety
+- Collections Framework (List, Set, Map, Queue)
+- Java Streams & File I/O
+- Exception Handling
+- Regular Expressions & JUnit Testing
+- Annotations & Reflection
+
+### 🔹 [java-iostream-practice](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-iostream-practice)
+**Week 5**: Java I/O Streams – CSV & JSON Data Handling
+- CSV File Operations (Read, Write, Parse)
+- JSON Parsing and Generation
+- Data Validation and Transformation
+- File Merging, Filtering, and Sorting
+
+### 🔹 [java8-programming-practice](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice)
+**Week 6**: Java 8 Features
+- Lambda Expressions
+- Functional Interfaces
+- Stream API Operations
+- Method References
 
 ---
 
@@ -66,15 +89,39 @@ BridgeLabz-Training/
 │   │           └── 📁 encapsulation/  # Encapsulation (Day 10)
 │   └── 📁 scenario-based-codebase/    # OOPs Applications (Day 11-15)
 │
-└── 📁 dsa-practice/
-    ├── 📁 gcr-codebase/
-    │   └── 📁 src/main/java/org/bridgelabz/
-    │       ├── 📁 linkedList/              # LinkedList Implementation (Day 16)
-    │       ├── 📁 stacksQueues/            # Stack, Queue & HashMap (Day 17)
-    │       ├── 📁 sortingAlgorithms/       # Sorting Algorithms (Day 18)
-    │       ├── 📁 linearAndBinarysearch/   # Search Algorithms (Day 19)
-    │       └── 📁 runTimeAnalysis/         # Performance Analysis (Day 20)
-    └── 📁 scenario-based-codebase/         # DSA Scenarios (Day 21-25)
+├── 📁 dsa-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 src/main/java/org/bridgelabz/
+│   │       ├── 📁 linkedList/              # LinkedList Implementation (Day 16)
+│   │       ├── 📁 stacksQueues/            # Stack, Queue & HashMap (Day 17)
+│   │       ├── 📁 sortingAlgorithms/       # Sorting Algorithms (Day 18)
+│   │       ├── 📁 linearAndBinarysearch/   # Search Algorithms (Day 19)
+│   │       └── 📁 runTimeAnalysis/         # Performance Analysis (Day 20)
+│   └── 📁 scenario-based-codebase/         # DSA Scenarios (Day 21-29)
+│
+├── 📁 java-collections-practice/
+│   └── 📁 gcr-codebase/
+│       └── 📁 src/main/java/
+│           ├── 📁 generics/                # Generics (Day 30)
+│           ├── 📁 collections/             # Collections Framework (Day 31)
+│           ├── 📁 streams/                 # Streams & File I/O (Day 32)
+│           ├── 📁 exceptionHandling/       # Exception Handling (Day 33)
+│           ├── 📁 regexJUnit/              # Regex & JUnit (Day 34)
+│           └── 📁 annotationsReflection/   # Annotations & Reflection (Day 35)
+│
+├── 📁 java-iostream-practice/
+│   └── 📁 gcr-codebase/
+│       └── 📁 src/main/
+│           ├── 📁 java/
+│           │   ├── 📁 CSVDataHandling/     # CSV Operations (Day 36)
+│           │   └── 📁 JSONData/            # JSON Operations (Day 37)
+│           └── 📁 resources/
+│
+└── 📁 java8-programming-practice/
+    └── 📁 gcr-codebase/
+        └── 📁 src/main/java/
+            ├── 📁 lambdaExpressions/       # Lambda Expressions (Day 36)
+            └── 📁 functionalInterface/     # Functional Interfaces (Day 37)
 ```
 
 ---
@@ -122,6 +169,31 @@ BridgeLabz-Training/
 | 24 | 12-Jan | DSA Scenarios | CallCenter, TrainCompanion, TextEditor, TrafficManager |
 | 25 | 13-Jan | DSA Scenarios | SmartCheckout, ParcelTracker, ExamProctor |
 
+### **Week 4: Java Collections & Advanced Concepts**
+
+| Day | Date | Topic | Programs Completed |
+|-----|------|-------|-------------------|
+| 30 | 9-Jan | Generics | 5 generic-based systems |
+| 31 | 16-Jan | Collections Framework | 20 problems (List, Set, Map, Queue) |
+| 32 | 19-Jan | Java Streams & File I/O | 10 stream operations |
+| 33 | 20-Jan | Exception Handling | 10 exception patterns |
+| 34 | 21-Jan | Regex & JUnit | 15 regex + 12 JUnit tests |
+| 35 | 22-Jan | Annotations & Reflection | 10 annotations + 12 reflection programs |
+
+### **Week 5: Java I/O Streams – CSV & JSON**
+
+| Day | Date | Topic | Programs Completed |
+|-----|------|-------|-------------------|
+| 36 | 23-Jan | CSV Data Handling | 15 CSV operations |
+| 37 | 24-Jan | JSON Data Handling | 8 JSON operations |
+
+### **Week 6: Java 8 Features**
+
+| Day | Date | Topic | Programs Completed |
+|-----|------|-------|-------------------|
+| 38 | 27-Jan | Lambda Expressions | 10 lambda implementations |
+| 39 | 27-Jan | Functional Interfaces | 9 built-in + 5 custom interfaces |
+
 ---
 
 ##  Key Concepts Covered
@@ -153,8 +225,36 @@ BridgeLabz-Training/
 -  **Searching**: Linear search, Binary search, 2D matrix search
 -  **String & I/O**: StringBuilder, StringBuffer, FileReader, InputStreamReader
 -  **Runtime Analysis**: Performance benchmarking and optimization
--  **Scenario-Based**: 10 real-world DSA applications
+-  **Scenario-Based**: 20+ real-world DSA applications
 -  **Time Complexity**: Analysis and optimization
+
+### Java Collections & Advanced Concepts (java-collections-practice)
+-  **Generics**: Type parameters, bounded types, wildcards
+-  **Collections Framework**: List, Set, Map, Queue interfaces
+-  **Java Streams**: Intermediate and terminal operations
+-  **File I/O**: Buffered, Data, ByteArray, Piped streams
+-  **Exception Handling**: Checked, unchecked, custom exceptions
+-  **Regular Expressions**: Pattern matching and validation
+-  **JUnit Testing**: Unit tests, assertions, test cases
+-  **Annotations**: Built-in and custom annotations
+-  **Reflection**: Runtime metadata access and manipulation
+
+### Java I/O Streams – CSV & JSON (java-iostream-practice)
+-  **CSV Operations**: Reading, writing, parsing CSV files
+-  **JSON Handling**: Parsing and generating JSON data
+-  **Data Transformation**: Converting between formats (CSV ↔ JSON, JSON ↔ XML)
+-  **File Operations**: Merging, filtering, sorting data files
+-  **Data Validation**: Structure and content validation
+-  **Object Mapping**: Converting between Java objects and data formats
+-  **Encryption**: Securing data files
+-  **Large File Processing**: Efficient handling of large datasets
+
+### Java 8 Features (java8-programming-practice)
+-  **Lambda Expressions**: Functional programming syntax
+-  **Functional Interfaces**: Predicate, Function, Consumer, Supplier
+-  **Method References**: Static, instance, constructor references
+-  **Stream API**: Filtering, mapping, reduction operations
+-  **Optional Class**: Null-safe programming
 
 ---
 
@@ -164,20 +264,21 @@ BridgeLabz-Training/
 - **Version Control**: Git & GitHub
 - **IDE**: Eclipse
 - **Build Tool**: Maven (optional)
+- **Testing**: JUnit 5
 
 ---
 
 ##  Training Statistics
 
-- **Total Days**: 30 days (15-Dec-2025 to 13-Jan-2026)
-- **Total Programs**: 280+ Java programs
+- **Total Days**: 39 days (15-Dec-2025 to 29-Jan-2026)
+- **Total Programs**: 370+ Java programs
 - **Levels Covered**: Beginner → Intermediate → Advanced
 - **Practice Platforms**: LeetCode, Scenario-based challenges, Real-world applications
-- **Branches**: 3 (Core Java, OOPs, DSA)
-- **Project Categories**: 40+ domain applications
-- **DSA Implementations**: 25+ data structure problems
-- **Scenario Projects**: 15+ real-world applications
-- **Coding Hours**: 180+ hours
+- **Branches**: 6 (Core Java, OOPs, DSA, Collections, I/O Streams, Java 8)
+- **Project Categories**: 50+ domain applications
+- **DSA Implementations**: 30+ data structure problems
+- **Scenario Projects**: 20+ real-world applications
+- **Coding Hours**: 230+ hours
 
 ---
 
@@ -205,6 +306,22 @@ BridgeLabz-Training/
 - 📌 [Linear & Binary Search](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/src/main/java/org/bridgelabz/linearAndBinarysearch)
 - 📌 [Runtime Analysis](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/src/main/java/org/bridgelabz/runTimeAnalysis)
 - 📌 [DSA Scenario-Based](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase)
+
+### Java Collections Practice
+- 📌 [Generics](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/src/main/java/generics)
+- 📌 [Collections Framework](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/src/main/java/collections)
+- 📌 [Java Streams](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/src/main/java/streams)
+- 📌 [Exception Handling](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/src/main/java/exceptionHandling)
+- 📌 [Regex & JUnit](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/src/main/java/regexJUnit)
+- 📌 [Annotations & Reflection](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/src/main/java/annotationsReflection)
+
+### Java I/O Streams Practice
+- 📌 [CSV Data Handling](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/src/main/java/CSVDataHandling)
+- 📌 [JSON Data Handling](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/src/main/java/JSONData)
+
+### Java 8 Features Practice
+- 📌 [Lambda Expressions](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/lambdaExpressions)
+- 📌 [Functional Interfaces](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/functionalInterface)
 
 ---
 
@@ -248,6 +365,27 @@ dsa-practice/gcr-codebase/src/main/java/org/bridgelabz/sortingAlgorithms/MergeSo
 - Time complexity: O(n log n)
 ```
 
+**Collections - Generics (AI Resume Screening)**
+```java
+java-collections-practice/gcr-codebase/src/main/java/generics/AIDrivenResumeScreeningSystem/
+- Generic type parameters
+- Type-safe candidate filtering
+```
+
+**I/O Streams - CSV/JSON Handling**
+```java
+java-iostream-practice/gcr-codebase/src/main/java/CSVDataHandling/FilterCSVRecords.java
+- CSV data filtering and processing
+- JSON to CSV conversion
+```
+
+**Java 8 - Lambda Expressions**
+```java
+java8-programming-practice/gcr-codebase/src/main/java/lambdaExpressions/LambdaWithStreams.java
+- Functional programming approach
+- Stream operations with lambda
+```
+
 **Scenario-Based (BMI Calculator)**
 ```java
 core-java-practice/scenario-based-codebase/BMICalculator.java
@@ -268,7 +406,10 @@ core-java-practice/scenario-based-codebase/BMICalculator.java
 -  **Data Structures**: Efficient memory management and algorithm optimization
 -  **Time Complexity**: Analyzing and optimizing algorithm performance
 -  **Real-World Applications**: Implementing domain-specific business logic
--  **Documentation**: Clear comments, README files, and code documentation 
+-  **Documentation**: Clear comments, README files, and code documentation
+-  **Functional Programming**: Leveraging Java 8 features for cleaner code
+-  **Type Safety**: Using generics for compile-time type checking
+-  **Testing**: Writing comprehensive unit tests with JUnit
 
 ---
 
