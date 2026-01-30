@@ -16,4 +16,3 @@ public class MultiVehicleRentalSystem {
         v3.returnVehicle();
     }
 }
-
