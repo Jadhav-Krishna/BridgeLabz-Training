@@ -45,7 +45,7 @@ public class Main {
 		employeeList.stream().min(Comparator.comparing(Employee::getAge)).ifPresent(System.out::println);
 		
 //		Who has the most working experience in the organization?
-		employeeList.stream().min(Comparator.comparing(Employee::getYearOfJoining)).ifPresent(System.out::println);
+		employeeList.stream().min(Comparator.comparing(e -> Integer.parseInt(e.getYearOfJoining()))).ifPresent(System.out::println);
 		
 	}
 
