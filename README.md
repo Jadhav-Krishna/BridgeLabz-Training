@@ -6,7 +6,7 @@
 
 - Lambda expression syntax and functional programming
 - Method references and constructor references
-- Simplifying anonymous inner classes
+- Simplifying anonymous inner classes 
 - Stream operations with lambda expressions
 - Predicate, Function, Consumer, and Supplier interfaces
 
