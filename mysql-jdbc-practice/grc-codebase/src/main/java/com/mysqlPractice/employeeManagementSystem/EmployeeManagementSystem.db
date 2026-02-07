@@ -1,3 +1,8 @@
+ /* CREATE DATABASE employee_db; */
+ /* USE employee_db; */
+ /* CREATE TABLE employee ( id INT PRIMARY KEY, name VARCHAR(100) NOT NULL, salary DOUBLE NOT NULL ); */
+
+
  /* Add employee */
  INSERT INTO employee (id, name, salary)
  VALUES (1, 'Amit', 50000),
