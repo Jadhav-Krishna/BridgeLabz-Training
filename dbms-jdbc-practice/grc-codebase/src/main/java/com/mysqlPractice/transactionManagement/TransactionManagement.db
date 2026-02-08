@@ -1,0 +1,83 @@
+//  create database bank_db;
+//  use bank_db;
+//  INSERT INTO accounts VALUES (101,'Shna',1000000), (102,'Sanya',150000), (103,'Anuj',70000), (104,'Muskan',85000), (105,'Harsh',50000);
+//  CREATE TABLE transactions( txn_id INT AUTO_INCREMENT PRIMARY KEY, from_account INT, to_account INT, account DECIMAL(10,2), txn_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
+
+
+//  Transfer money between accounts (use transactions)
+UPDATE accounts SET balance = balance - 20000 WHERE account_id = 101;
+UPDATE accounts SET balance = balance - 2500 WHERE account_id = 103;
++------------+--------+-----------+
+| account_id | name   | balance   |
++------------+--------+-----------+
+|        101 | Shna   | 980000.00 |
+|        102 | Sanya  | 150000.00 |
+|        103 | Anuj   |  67500.00 |
+|        104 | Muskan |  85000.00 |
+|        105 | Harsh  |  50000.00 |
++------------+--------+-----------+
+INSERT INTO transactions(from_account, to_account, account ) VALUES (101,103,7500);
++--------+--------------+------------+---------+---------------------+
+| txn_id | from_account | to_account | account | txn_time            |
++--------+--------------+------------+---------+---------------------+
+|      1 |          101 |        103 | 7500.00 | 2026-02-08 09:31:49 |
++--------+--------------+------------+---------+---------------------+
+COMMIT;
+ROLLBACK;   // If it fails
+
+
+//   Check balance
+SELECT balance FROM accounts WHERE account_id = 103;
++----------+
+| balance  |
++----------+
+| 67500.00 |
++----------+
+//  Select balance, name from accounts;
++-----------+--------+
+| balance   | name   |
++-----------+--------+
+| 980000.00 | Shna   |
+| 150000.00 | Sanya  |
+|  67500.00 | Anuj   |
+|  85000.00 | Muskan |
+|  50000.00 | Harsh  |
++-----------+--------+
+
+
+//  Transaction history
+SELECT * FROM transactions;
++--------+--------------+------------+---------+---------------------+
+| txn_id | from_account | to_account | account | txn_time            |
++--------+--------------+------------+---------+---------------------+
+|      1 |          101 |        103 | 7500.00 | 2026-02-08 09:31:49 |
++--------+--------------+------------+---------+---------------------+
+
+
+
+
+
+
+
+// Everything at once
+START TRANSACTION;
+
+-- Only deduct if sufficient balance
+UPDATE accounts
+SET balance = balance - 2000
+WHERE account_id = 101 AND balance >= 2000;
+
+-- If no row updated, rollback
+IF ROW_COUNT() = 0 THEN
+   ROLLBACK;
+ELSE
+   UPDATE accounts
+   SET balance = balance + 2000
+   WHERE account_id = 102;
+
+   INSERT INTO transactions (from_account, to_account, amount)
+   VALUES (101, 102, 2000);
+
+   COMMIT;
+END IF;
+
