@@ -4,7 +4,7 @@
 
 ##  Training Overview
 
-This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to **January 29, 2026**. The training is organized into structured branches covering Core Java fundamentals, Object-Oriented Programming, Data Structures & Algorithms, Java Collections Framework, and Java 8 Features.
+This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to **Feb 10, 2026**. The training is organized into structured branches covering Core Java fundamentals, Object-Oriented Programming, Data Structures & Algorithms, Java Collections Framework, and Java 8 Features.
 
 ---
 
