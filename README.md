@@ -400,39 +400,39 @@ BridgeLabz-Training/
 - 📌 [DSA Scenario-Based](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase)
 
 ### Java Collections Practice
-- 📌 [Generics](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/src/main/java/generics)
-- 📌 [Collections Framework](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/src/main/java/collections)
-- 📌 [Java Streams](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/src/main/java/streams)
-- 📌 [Exception Handling](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/src/main/java/exceptionHandling)
-- 📌 [Regex & JUnit](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/src/main/java/regexJUnit)
-- 📌 [Annotations & Reflection](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/src/main/java/annotationsReflection)
+- 📌 [Generics](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/src/main/java/generics)
+- 📌 [Collections Framework](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/src/main/java/collections)
+- 📌 [Java Streams](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/src/main/java/streams)
+- 📌 [Exception Handling](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/src/main/java/exceptionHandling)
+- 📌 [Regex & JUnit](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/src/main/java/regexJUnit)
+- 📌 [Annotations & Reflection](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/src/main/java/annotationsReflection)
 
 ### Java I/O Streams Practice
-- 📌 [CSV Data Handling](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/src/main/java/CSVDataHandling)
-- 📌 [JSON Data Handling](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/src/main/java/JSONData)
+- 📌 [CSV Data Handling](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-iostream-practice/gcr-codebase/src/main/java/CSVDataHandling)
+- 📌 [JSON Data Handling](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-iostream-practice/gcr-codebase/src/main/java/JSONData)
 
 ### Java 8 Features Practice
-- 📌 [Lambda Expressions](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/lambdaExpressions)
-- 📌 [Functional Interfaces](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/functionalInterface)
-- 📌 [Stream API](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/streamAPI)
-- 📌 [Collectors](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/collectors)
-- 📌 [Scenario Questions](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/scenarios)
+- 📌 [Lambda Expressions](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/src/main/java/lambdaExpressions)
+- 📌 [Functional Interfaces](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/src/main/java/functionalInterface)
+- 📌 [Stream API](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/src/main/java/streamAPI)
+- 📌 [Collectors](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/src/main/java/collectors)
+- 📌 [Scenario-Based Projects](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/scenario-based-codebase)
 
 ### Design Patterns Practice
-- 📌 [Design Principles](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/src/main/java/designPrinciples)
-- 📌 [Creational Patterns](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/src/main/java/creationalPatterns)
-- 📌 [Structural Patterns](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/src/main/java/structuralPatterns)
-- 📌 [Behavioral Patterns](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/src/main/java/behavioralPatterns)
-- 📌 [Multithreading](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/src/main/java/multithreading)
-- 📌 [Multithreading Scenarios](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/src/main/java/multithreadingScenarios)
+- 📌 [Design Principles](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice)
+- 📌 [Creational Patterns](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice)
+- 📌 [Structural Patterns](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice)
+- 📌 [Behavioral Patterns](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice)
+- 📌 [Multithreading](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice)
+- 📌 [Multithreading Scenarios](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice)
 
 ### DBMS & JDBC Practice
-- 📌 [MySQL Scripts](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/sql-scripts)
-- 📌 [Database Scenarios](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/database-scenarios)
-- 📌 [JDBC Programming](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/src/main/java/jdbc)
-- 📌 [Mock Test](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/mock-test)
-- 📌 [JDBC Scenarios](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/src/main/java/scenarios)
-- 📌 [Email Writing](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/powerSkill/emailWriting)
+- 📌 [MySQL Scripts](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice)
+- 📌 [Database Scenarios](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice)
+- 📌 [JDBC Programming](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice)
+- 📌 [Mock Test](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice)
+- 📌 [JDBC Scenarios](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice)
+- 📌 [PowerSkill: Email Writing](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice)
 
 ---
 
