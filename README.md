@@ -106,3 +106,108 @@ java8-programming-practice/
 **GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/functionalInterface)
 
 ---
+
+## Day 38 – Stream API, Collectors & Java 8 Features
+
+**(Date: 28-Jan-2026)**
+
+- Stream API operations (filter, map, reduce, collect)
+- Intermediate and terminal operations
+- Collectors utility class and grouping operations
+- Parallel streams for performance optimization
+- Real-world scenarios with Java 8 features
+
+### Topics Covered:
+
+- Stream Creation and Basic Operations
+- Filtering and Mapping Data
+- Sorting and Distinct Elements
+- Min/Max and Finding Elements
+- Reduce and Accumulation
+- Collectors (toList, toSet, toMap, groupingBy, partitioningBy)
+- Joining and Summarizing
+- Parallel Streams
+- FlatMap and Complex Transformations
+- Stream API with Collections
+
+### Project Structure:
+```
+java8-programming-practice/
+└── gcr-codebase/
+    └── src/
+        └── main/
+            └── java/
+                ├── streamAPI/
+                │   ├── StreamCreation.java
+                │   ├── FilterMapOperations.java
+                │   ├── SortingDistinct.java
+                │   ├── MinMaxFinding.java
+                │   ├── ReduceOperations.java
+                │   ├── FlatMapOperations.java
+                │   └── ParallelStreams.java
+                └── collectors/
+                    ├── CollectorsDemo.java
+                    ├── GroupingByDemo.java
+                    ├── PartitioningByDemo.java
+                    ├── JoiningDemo.java
+                    └── SummarizingDemo.java
+```
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java)
+
+---
+
+## Day 39 – Scenario Questions
+
+**(Date: 31-Jan-2026)**
+
+- 120+ practical scenario-based questions
+- Real-world problem-solving with Java 8 features
+- Interview preparation with lambda expressions
+- Stream API practical applications
+- Complex data manipulation scenarios
+
+### Scenario Categories:
+
+**Lambda & Functional Programming (30 scenarios)**
+- Lambda expression applications
+- Functional interface implementations
+- Method reference usage
+- Custom functional interfaces
+
+**Stream API Operations (40 scenarios)**
+- Data filtering and transformation
+- Grouping and partitioning
+- Sorting and searching
+- Complex stream pipelines
+
+**Collectors & Data Processing (25 scenarios)**
+- Custom collectors
+- Data aggregation
+- Statistical operations
+- Map/Reduce patterns
+
+**Real-World Applications (25 scenarios)**
+- Employee management systems
+- Product inventory operations
+- Banking transactions
+- E-commerce data processing
+- Social media analytics
+
+### Project Structure:
+```
+java8-programming-practice/
+└── gcr-codebase/
+    └── src/
+        └── main/
+            └── java/
+                └── scenarios/
+                    ├── lambdaScenarios/
+                    ├── streamScenarios/
+                    ├── collectorsScenarios/
+                    └── realWorldApplications/
+```
+
+**GitHub Repository:** [View on GitHub](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/scenarios)
+
+---
