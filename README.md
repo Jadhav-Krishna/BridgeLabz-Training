@@ -1,10 +1,10 @@
 # BridgeLabz Training Journey 
 
-> A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
+> A comprehensive Java programming training repository covering Core Java fundamentals through Advanced Database Connectivity.
 
 ##  Training Overview
 
-This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to **Feb 11, 2026**. The training is organized into structured branches covering Core Java fundamentals, Object-Oriented Programming, Data Structures & Algorithms, Java Collections Framework, and Java 8 Features.
+This repository documents my learning journey at BridgeLabz, from **December 15, 2025** to **February 14, 2026**. The training is organized into structured branches covering Core Java, Object-Oriented Programming, Data Structures & Algorithms, Collections Framework, I/O Streams, Java 8 Features, Design Patterns, and Database Programming.
 
 ---
 
@@ -24,7 +24,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - Object Modeling & Inheritance
 - Real-World OOPs Applications
 
-### 🔹 [dsa-practice](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dsa-practice)
+### 🔹 [java-dsa-practice](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-dsa-practice)
 **Week 3**: Data Structures & Algorithms
 - LinkedList Implementation
 - Stack, Queue & HashMap
@@ -50,11 +50,27 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - File Merging, Filtering, and Sorting
 
 ### 🔹 [java8-programming-practice](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice)
-**Week 6**: Java 8 Features
-- Lambda Expressions
-- Functional Interfaces
-- Stream API Operations
-- Method References
+**Week 6**: Java 8 Features & Functional Programming
+- Lambda Expressions & Functional Interfaces
+- Stream API, Collectors & Java 8 Features (Jan 28)
+- 120 Scenario Questions (Jan 31)
+- Method References & Optional Class
+
+### 🔹 [java-design-pattern-practice](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice)
+**Week 7**: Design Patterns & Multithreading
+- Design Principles - SOLID, DRY, KISS (Jan 31)
+- Multithreading Fundamentals (Feb 2)
+- Multithreading Scenarios (Feb 3)
+- Advanced Scenarios & Patterns (Feb 4)
+
+### 🔹 [dbms-jdbc-practice](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice)
+**Week 8**: Database Management & JDBC
+- MySQL Fundamentals (Feb 6)
+- Database Scenarios (Feb 7-8)
+- JDBC Programming (Feb 9)
+- BridgeLabz Mock Test (Feb 10)
+- JDBC Scenarios (Feb 11-13)
+- PowerSkill Session: Email Writing (Feb 14)
 
 ---
 
