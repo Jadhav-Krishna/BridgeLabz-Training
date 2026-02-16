@@ -133,11 +133,34 @@ BridgeLabz-Training/
 │           │   └── 📁 JSONData/            # JSON Operations (Day 37)
 │           └── 📁 resources/
 │
-└── 📁 java8-programming-practice/
+├── 📁 java8-programming-practice/
+│   └── 📁 gcr-codebase/
+│       └── 📁 src/main/java/
+│           ├── 📁 lambdaExpressions/       # Lambda Expressions (Day 38)
+│           ├── 📁 functionalInterface/     # Functional Interfaces (Day 39)
+│           ├── 📁 streamAPI/               # Stream API (Day 40)
+│           ├── 📁 collectors/              # Collectors (Day 40)
+│           └── 📁 scenarios/               # 120 Scenarios (Day 41)
+│
+├── 📁 java-design-pattern-practice/
+│   └── 📁 gcr-codebase/
+│       └── 📁 src/main/java/
+│           ├── 📁 designPrinciples/        # SOLID, DRY, KISS (Day 42)
+│           ├── 📁 creationalPatterns/      # Design Patterns
+│           ├── 📁 structuralPatterns/      # Design Patterns
+│           ├── 📁 behavioralPatterns/      # Design Patterns
+│           ├── 📁 multithreading/          # Multithreading (Day 43)
+│           ├── 📁 multithreadingScenarios/ # Scenarios (Day 44)
+│           └── 📁 advancedScenarios/       # Advanced (Day 45)
+│
+└── 📁 dbms-jdbc-practice/
     └── 📁 gcr-codebase/
-        └── 📁 src/main/java/
-            ├── 📁 lambdaExpressions/       # Lambda Expressions (Day 36)
-            └── 📁 functionalInterface/     # Functional Interfaces (Day 37)
+        ├── 📁 sql-scripts/                 # MySQL (Day 46)
+        ├── 📁 database-scenarios/          # DB Scenarios (Day 47-48)
+        ├── 📁 src/main/java/jdbc/          # JDBC (Day 49)
+        ├── 📁 mock-test/                   # Mock Test (Day 50)
+        ├── 📁 scenarios/                   # JDBC Scenarios (Day 51-53)
+        └── 📁 powerSkill/emailWriting/     # Email Writing (Day 54)
 ```
 
 ---
@@ -203,12 +226,34 @@ BridgeLabz-Training/
 | 36 | 23-Jan | CSV Data Handling | 15 CSV operations |
 | 37 | 24-Jan | JSON Data Handling | 8 JSON operations |
 
-### **Week 6: Java 8 Features**
+### **Week 6: Java 8 Features & Functional Programming**
 
 | Day | Date | Topic | Programs Completed |
 |-----|------|-------|-------------------|
 | 38 | 27-Jan | Lambda Expressions | 10 lambda implementations |
 | 39 | 27-Jan | Functional Interfaces | 9 built-in + 5 custom interfaces |
+| 40 | 28-Jan | Stream API & Collectors | Stream operations, data processing |
+| 41 | 31-Jan | 120 Scenario Questions | Real-world Java 8 applications |
+
+### **Week 7: Design Patterns & Multithreading**
+
+| Day | Date | Topic | Programs Completed |
+|-----|------|-------|-------------------|
+| 42 | 31-Jan | Design Principles | SOLID, DRY, KISS implementations |
+| 43 | 2-Feb | Multithreading Fundamentals | Thread creation, synchronization, executors |
+| 44 | 3-Feb | Multithreading Scenarios | Banking, file processing, web server simulations |
+| 45 | 4-Feb | Advanced Scenarios | Concurrency patterns, performance optimization |
+
+### **Week 8: Database Management & JDBC**
+
+| Day | Date | Topic | Programs Completed |
+|-----|------|-------|-------------------|
+| 46 | 6-Feb | MySQL Fundamentals | DDL, DML, Joins, Normalization |
+| 47-48 | 7-8-Feb | Database Scenarios | Employee, E-commerce, Banking systems |
+| 49 | 9-Feb | JDBC Programming | Statement, PreparedStatement, Transactions |
+| 50 | 10-Feb | BridgeLabz Mock Test | Comprehensive evaluation |
+| 51-53 | 11-13-Feb | JDBC Scenarios | Student, Inventory, CRM, Hotel systems |
+| 54 | 14-Feb | PowerSkill Session | Professional Email Writing |
 
 ---
 
@@ -270,7 +315,33 @@ BridgeLabz-Training/
 -  **Functional Interfaces**: Predicate, Function, Consumer, Supplier
 -  **Method References**: Static, instance, constructor references
 -  **Stream API**: Filtering, mapping, reduction operations
+-  **Collectors**: Grouping, partitioning, summarizing data
 -  **Optional Class**: Null-safe programming
+-  **Parallel Streams**: Performance optimization
+-  **120+ Scenarios**: Real-world problem-solving applications
+
+### Design Patterns & Multithreading (java-design-pattern-practice)
+-  **SOLID Principles**: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
+-  **Design Principles**: DRY, KISS, YAGNI, Composition Over Inheritance
+-  **Creational Patterns**: Singleton, Factory, Abstract Factory, Builder, Prototype
+-  **Structural Patterns**: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy
+-  **Behavioral Patterns**: Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, Visitor
+-  **Thread Basics**: Thread creation, lifecycle, priorities
+-  **Synchronization**: synchronized keyword, Locks, Semaphore
+-  **Thread Communication**: wait/notify, Producer-Consumer pattern
+-  **Concurrent Collections**: ConcurrentHashMap, CopyOnWriteArrayList
+-  **Executors Framework**: ThreadPool, ScheduledExecutor, Future/Callable
+
+### Database Management & JDBC (dbms-jdbc-practice)
+-  **SQL Fundamentals**: DDL, DML, DQL, DCL, TCL commands
+-  **Database Design**: ER diagrams, Normalization (1NF, 2NF, 3NF, BCNF)
+-  **Advanced Queries**: Joins, Subqueries, Views, Stored Procedures, Triggers
+-  **JDBC Basics**: DriverManager, Connection, Statement types
+-  **CRUD Operations**: Insert, Select, Update, Delete with JDBC
+-  **Transaction Management**: Commit, Rollback, Savepoint
+-  **Advanced JDBC**: Connection pooling, Metadata, Batch processing
+-  **Design Patterns**: DAO, Singleton, Factory, MVC patterns
+-  **Real-World Applications**: Student, Inventory, CRM, Hotel, Payroll systems
 
 ---
 
@@ -279,22 +350,27 @@ BridgeLabz-Training/
 - **Language**: Java (JDK 17+)
 - **Version Control**: Git & GitHub
 - **IDE**: Eclipse
-- **Build Tool**: Maven (optional)
+- **Build Tool**: Maven
+- **Database**: MySQL
 - **Testing**: JUnit 5
+- **Libraries**: JDBC, JSON Parsers, CSV Handlers
 
 ---
 
 ##  Training Statistics
 
-- **Total Days**: 39 days (15-Dec-2025 to 29-Jan-2026)
-- **Total Programs**: 370+ Java programs
-- **Levels Covered**: Beginner → Intermediate → Advanced
+- **Duration**: 8 weeks (15-Dec-2025 to 14-Feb-2026)
+- **Total Days**: 54 training days
+- **Total Programs**: 500+ Java programs
+- **Levels Covered**: Beginner → Intermediate → Advanced → Expert
 - **Practice Platforms**: LeetCode, Scenario-based challenges, Real-world applications
-- **Branches**: 6 (Core Java, OOPs, DSA, Collections, I/O Streams, Java 8)
-- **Project Categories**: 50+ domain applications
-- **DSA Implementations**: 30+ data structure problems
-- **Scenario Projects**: 20+ real-world applications
-- **Coding Hours**: 230+ hours
+- **Branches**: 8 (Core Java, OOPs, DSA, Collections, I/O Streams, Java 8, Design Patterns, DBMS/JDBC)
+- **Project Categories**: 80+ domain applications
+- **DSA Implementations**: 40+ data structure problems
+- **Scenario Projects**: 40+ real-world applications
+- **Design Patterns**: 23 GoF patterns implemented
+- **Database Projects**: 10+ JDBC applications
+- **Coding Hours**: 350+ hours
 
 ---
 
@@ -338,6 +414,25 @@ BridgeLabz-Training/
 ### Java 8 Features Practice
 - 📌 [Lambda Expressions](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/lambdaExpressions)
 - 📌 [Functional Interfaces](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/functionalInterface)
+- 📌 [Stream API](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/streamAPI)
+- 📌 [Collectors](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/collectors)
+- 📌 [Scenario Questions](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/src/main/java/scenarios)
+
+### Design Patterns Practice
+- 📌 [Design Principles](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/src/main/java/designPrinciples)
+- 📌 [Creational Patterns](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/src/main/java/creationalPatterns)
+- 📌 [Structural Patterns](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/src/main/java/structuralPatterns)
+- 📌 [Behavioral Patterns](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/src/main/java/behavioralPatterns)
+- 📌 [Multithreading](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/src/main/java/multithreading)
+- 📌 [Multithreading Scenarios](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/src/main/java/multithreadingScenarios)
+
+### DBMS & JDBC Practice
+- 📌 [MySQL Scripts](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/sql-scripts)
+- 📌 [Database Scenarios](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/database-scenarios)
+- 📌 [JDBC Programming](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/src/main/java/jdbc)
+- 📌 [Mock Test](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/mock-test)
+- 📌 [JDBC Scenarios](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/src/main/java/scenarios)
+- 📌 [Email Writing](https://github.com/Jadhav-Krishna/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/powerSkill/emailWriting)
 
 ---
 
@@ -402,6 +497,34 @@ java8-programming-practice/gcr-codebase/src/main/java/lambdaExpressions/LambdaWi
 - Stream operations with lambda
 ```
 
+**Java 8 - Stream API**
+```java
+java8-programming-practice/gcr-codebase/src/main/java/streamAPI/FilterMapOperations.java
+- Data filtering and transformation
+- Collectors for grouping and partitioning
+```
+
+**Design Patterns - Singleton**
+```java
+java-design-pattern-practice/gcr-codebase/src/main/java/creationalPatterns/singleton/
+- Thread-safe singleton implementation
+- Lazy and eager initialization
+```
+
+**Multithreading - Producer Consumer**
+```java
+java-design-pattern-practice/gcr-codebase/src/main/java/multithreading/communication/ProducerConsumer.java
+- Thread synchronization
+- BlockingQueue implementation
+```
+
+**JDBC - Student Management**
+```java
+dbms-jdbc-practice/gcr-codebase/src/main/java/scenarios/studentManagement/
+- DAO pattern implementation
+- CRUD operations with PreparedStatement
+```
+
 **Scenario-Based (BMI Calculator)**
 ```java
 core-java-practice/scenario-based-codebase/BMICalculator.java
@@ -426,6 +549,10 @@ core-java-practice/scenario-based-codebase/BMICalculator.java
 -  **Functional Programming**: Leveraging Java 8 features for cleaner code
 -  **Type Safety**: Using generics for compile-time type checking
 -  **Testing**: Writing comprehensive unit tests with JUnit
+-  **Design Patterns**: Applying GoF patterns for maintainable architecture
+-  **Concurrency**: Thread-safe programming and synchronization techniques
+-  **Database Design**: Normalization and efficient query optimization
+-  **JDBC Best Practices**: Connection pooling, prepared statements, transaction management
 
 ---
 
